@@ -1,194 +1,49 @@
 {
-  "updated": "2026-10-26T12:20:08.282806+00:00",
+  "updated": "2026-10-26T16:12:28.484881+00:00",
   "items": [
     {
-      "title": "Tim Drake Needs a New Identity, and Batman\u2019s Greatest TV Show Might Have Already Given Us the Answer",
-      "source_url": "https://comicbook.com/comics/feature/tim-drake-needs-a-new-identity-and-batmans-greatest-tv-show-might-have-already-given-us-the-answer/",
-      "watch_matches": [
-        "Batman"
-      ],
+      "title": "Insomniac Games\u2019 Xbox Game From 2014 Just Got a New Update After 12 Years",
+      "source_url": "https://comicbook.com/gaming/news/insomniac-games-xbox-one-game-sunset-overdrive-steam-deck-update/",
+      "watch_matches": [],
       "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.348148+00:00"
+      "tags": [
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-26T16:12:25.569980+00:00"
     },
     {
-      "title": "2 Years Ago, Dragon Ball Creator\u2019s Final Project Marked the End of an Era",
-      "source_url": "https://comicbook.com/anime/feature/2-years-ago-dragon-ball-creators-final-project-marked-the-end-of-an-era/",
+      "title": "After 22 Years, Bleach Anime Ends With Final Episode Timeskip",
+      "source_url": "https://comicbook.com/anime/feature/after-22-years-bleach-anime-ends-with-final-episode-timeskip/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
         "death_or_major_event"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T12:11:48.347392+00:00"
+      "found_at": "2026-10-26T16:12:25.571126+00:00"
     },
     {
-      "title": "48 Years Ago, An Iconic Slasher Villain First Debuted (& His Infamous Mask Only Cost $1.98)",
-      "source_url": "https://comicbook.com/movies/feature/48-years-ago-an-iconic-slasher-villain-first-debuted-his-infamous-mask-only-cost-1-98/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "new_character"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-26T12:11:48.347187+00:00"
-    },
-    {
-      "title": "Marvel Comics 5 Most Powerful Speedsters Who Leave Quicksilver In the Dust",
-      "source_url": "https://comicbook.com/comics/list/marvel-comics-5-most-powerful-speedsters-who-leave-quicksilver-in-the-dust/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "new_character"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-26T12:11:48.346481+00:00"
-    },
-    {
-      "title": "Crunchyroll\u2019s Darkest Anime of Fall 2026 Unveils Its True Story With a Twist No One Expected",
-      "source_url": "https://comicbook.com/anime/feature/crunchyrolls-darkest-anime-of-fall-2026-unveils-its-true-story-with-a-twist-no-one-expected/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "one_shot"
-      ],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.346310+00:00"
-    },
-    {
-      "title": "Doomsday Test Screening Details Are Good News (Especially For Cyclops Fans)",
-      "source_url": "https://comicbook.com/movies/news/doomsday-test-screening-details-are-good-news-especially-for-cyclops-fans/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "one_shot"
-      ],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.346097+00:00"
-    },
-    {
-      "title": "3 Anime to Watch on Prime Video This October",
-      "source_url": "https://comicbook.com/anime/list/3-anime-to-watch-on-prime-video-this-october/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "new_character"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-26T12:11:48.345946+00:00"
-    },
-    {
-      "title": "36 Years Ago, Dragon Ball Z Introduced a Fan-Favorite Character Toriyama Didn\u2019t Create",
-      "source_url": "https://comicbook.com/anime/feature/36-years-ago-dragon-ball-z-introduced-a-fan-favorite-character-toriyama-didnt-create/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "one_shot"
-      ],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.345485+00:00"
-    },
-    {
-      "title": "Fired Star Wars Directors Finally Address The Controversy & If They\u2019d Return To the Franchise",
-      "source_url": "https://comicbook.com/movies/news/fired-star-wars-directors-finally-address-the-controversy-if-theyd-return-to-the-franchise/",
-      "watch_matches": [
-        "Star Wars"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.345289+00:00"
-    },
-    {
-      "title": "24 Years Ago, This Shonen Anime Left Fans Hanging (& Its Reboot Couldn\u2019t Save It)",
-      "source_url": "https://comicbook.com/anime/feature/24-years-ago-this-shonen-anime-left-fans-hanging-its-reboot-couldnt-save-it/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "one_shot"
-      ],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.344911+00:00"
-    },
-    {
-      "title": "Clayface Just Tied Obsession for One of 2026\u2019s Most Important Records",
-      "source_url": "https://comicbook.com/movies/news/clayface-just-tied-obsession-for-one-of-2026s-most-important-records/",
+      "title": "Robert Pattinson Addresses The Batman: Part II Director Change & Reveals When Filming Resumes",
+      "source_url": "https://comicbook.com/movies/news/robert-pattinson-addresses-the-batman-part-ii-director-change-reveals-when-filming-resumes/",
       "watch_matches": [
         "Batman"
       ],
       "creator_matches": [],
       "tags": [],
       "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.344724+00:00"
+      "found_at": "2026-10-26T16:12:25.572209+00:00"
     },
     {
-      "title": "A Misunderstanding About Wonder Woman Accidentally Created a Teen Titans Icon (And Confused DC for Years)",
-      "source_url": "https://comicbook.com/collectibles/news/a-misunderstanding-about-wonder-woman-accidentally-created-a-teen-titans-icon-and-confused-dc-for-years/",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.344532+00:00"
-    },
-    {
-      "title": "Every DCU Movie and TV Show Releasing After Clayface",
-      "source_url": "https://comicbook.com/movies/list/every-dcu-movie-and-tv-show-releasing-after-clayface/",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.344201+00:00"
-    },
-    {
-      "title": "Eric Bauza, Modern Voice of Bugs Bunny & The Looney Tunes, Dead at 46",
-      "source_url": "https://comicbook.com/tv-shows/news/eric-bauza-modern-voice-of-bugs-bunny-the-looney-tunes-dead-at-46/",
+      "title": "This Deadly X-Men Villain Was Taken on the Greatest Redemption Arc of the Krakoa Era (and It\u2019s a Path the MCU Could Take)",
+      "source_url": "https://comicbook.com/comics/feature/this-deadly-x-men-villain-was-taken-on-the-greatest-redemption-arc-of-the-krakoa-era-and-its-a-path-the-mcu-could-take/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
         "death_or_major_event"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T12:11:48.343923+00:00"
-    },
-    {
-      "title": "4 Marvel Heroes That Could Have Stopped Jean Grey in Spider-Man: Brand New Day",
-      "source_url": "https://comicbook.com/movies/list/4-marvel-heroes-that-could-have-stopped-jean-grey-in-spider-man-brand-new-day/",
-      "watch_matches": [
-        "Spider-Man"
-      ],
-      "creator_matches": [],
-      "tags": [
-        "new_character"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-26T12:11:48.343457+00:00"
-    },
-    {
-      "title": "5 Venom Hosts Who Prove That Eddie Brock Is Not Venom\u2019s Endgame (Including His Original Host)",
-      "source_url": "https://comicbook.com/comics/list/5-venom-hosts-who-prove-that-eddie-brock-is-not-venoms-endgame-including-his-original-host/",
-      "watch_matches": [
-        "Venom"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.343156+00:00"
-    },
-    {
-      "title": "4 Excellent Sci-Fi Trilogies That Peaked With the Second Movie, Like the Marvel Series That Started It All",
-      "source_url": "https://comicbook.com/movies/list/4-excellent-sci-fi-trilogies-that-peaked-with-the-second-movie-like-the-marvel-series-that-started-it-all/",
-      "watch_matches": [
-        "Star Wars"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-26T12:11:48.340712+00:00"
+      "found_at": "2026-10-26T16:12:25.572814+00:00"
     }
   ]
 }
