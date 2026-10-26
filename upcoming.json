@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-26T16:12:28.484881+00:00",
+  "updated": "2026-10-26T19:21:30.205618+00:00",
   "items": [
     {
-      "title": "Insomniac Games\u2019 Xbox Game From 2014 Just Got a New Update After 12 Years",
-      "source_url": "https://comicbook.com/gaming/news/insomniac-games-xbox-one-game-sunset-overdrive-steam-deck-update/",
+      "title": "Demon Slayer: Infinity Castle Continues to Break Records Weeks After Its Streaming Debut",
+      "source_url": "https://comicbook.com/anime/news/demon-slayer-infinity-castle-continues-to-break-records-weeks-after-its-streaming-debut/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
         "new_character"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T16:12:25.569980+00:00"
+      "found_at": "2026-10-26T19:21:27.751813+00:00"
     },
     {
-      "title": "After 22 Years, Bleach Anime Ends With Final Episode Timeskip",
-      "source_url": "https://comicbook.com/anime/feature/after-22-years-bleach-anime-ends-with-final-episode-timeskip/",
+      "title": "Mass Effect 5 Developer Reveals New Details on Canceled Game",
+      "source_url": "https://comicbook.com/gaming/news/mass-effect-5-developer-reveals-new-details-on-canceled-game/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
         "death_or_major_event"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T16:12:25.571126+00:00"
+      "found_at": "2026-10-26T19:21:27.756270+00:00"
     },
     {
-      "title": "Robert Pattinson Addresses The Batman: Part II Director Change & Reveals When Filming Resumes",
-      "source_url": "https://comicbook.com/movies/news/robert-pattinson-addresses-the-batman-part-ii-director-change-reveals-when-filming-resumes/",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-26T16:12:25.572209+00:00"
-    },
-    {
-      "title": "This Deadly X-Men Villain Was Taken on the Greatest Redemption Arc of the Krakoa Era (and It\u2019s a Path the MCU Could Take)",
-      "source_url": "https://comicbook.com/comics/feature/this-deadly-x-men-villain-was-taken-on-the-greatest-redemption-arc-of-the-krakoa-era-and-its-a-path-the-mcu-could-take/",
+      "title": "Walter Koenig, Star Trek\u2019s Original Chekov, Dies at 90",
+      "source_url": "https://comicbook.com/tv-shows/news/walter-koenig-star-treks-original-chekov-dies-at-90/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
         "death_or_major_event"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T16:12:25.572814+00:00"
+      "found_at": "2026-10-26T19:21:27.756894+00:00"
+    },
+    {
+      "title": "Marvel\u2019s Blade Game From Arkane Gets Hopeful New Update",
+      "source_url": "https://comicbook.com/gaming/news/marvels-blade-game-arkane-update-hope/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "tags": [
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-26T19:21:27.763911+00:00"
     }
   ]
 }
