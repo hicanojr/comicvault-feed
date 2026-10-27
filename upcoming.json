@@ -1,49 +1,72 @@
 {
-  "updated": "2026-10-26T19:21:30.205618+00:00",
+  "updated": "2026-10-27T03:38:08.843104+00:00",
   "items": [
     {
-      "title": "Demon Slayer: Infinity Castle Continues to Break Records Weeks After Its Streaming Debut",
-      "source_url": "https://comicbook.com/anime/news/demon-slayer-infinity-castle-continues-to-break-records-weeks-after-its-streaming-debut/",
+      "title": "Wildwood Director Reveals Which Scene in the Movie Was Laika Studios\u2019 Most Difficult Ever",
+      "source_url": "https://comicbook.com/movies/news/wildwood-director-reveals-which-scene-in-the-movie-was-laika-studios-most-difficult-ever/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
         "new_character"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T19:21:27.751813+00:00"
+      "found_at": "2026-10-27T03:38:04.317943+00:00"
     },
     {
-      "title": "Mass Effect 5 Developer Reveals New Details on Canceled Game",
-      "source_url": "https://comicbook.com/gaming/news/mass-effect-5-developer-reveals-new-details-on-canceled-game/",
+      "title": "Return of the Jedi Inspired One of Star Wars\u2019 Rarest Toys, & You\u2019ve Probably Never Heard",
+      "source_url": "https://comicbook.com/collectibles/news/return-of-the-jedi-inspired-one-of-star-wars-rarest-toys-but-youve-probably-never-heard-of-it/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-27T03:38:04.319302+00:00"
+    },
+    {
+      "title": "Everything Coming to Peacock in November 2026",
+      "source_url": "https://comicbook.com/movies/news/everything-coming-to-peacock-in-november-2026/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
-        "death_or_major_event"
+        "death_or_major_event",
+        "one_shot"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T19:21:27.756270+00:00"
+      "found_at": "2026-10-27T03:38:04.320266+00:00"
     },
     {
-      "title": "Walter Koenig, Star Trek\u2019s Original Chekov, Dies at 90",
-      "source_url": "https://comicbook.com/tv-shows/news/walter-koenig-star-treks-original-chekov-dies-at-90/",
+      "title": "Crunchyroll\u2019s Solo Leveling Replacement Is Getting the Treatment One-Punch Man Deserved",
+      "source_url": "https://comicbook.com/anime/feature/crunchyrolls-solo-leveling-replacement-is-getting-the-treatment-one-punch-man-deserved/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
-        "death_or_major_event"
+        "new_character"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T19:21:27.756894+00:00"
+      "found_at": "2026-10-27T03:38:04.320816+00:00"
     },
     {
-      "title": "Marvel\u2019s Blade Game From Arkane Gets Hopeful New Update",
-      "source_url": "https://comicbook.com/gaming/news/marvels-blade-game-arkane-update-hope/",
+      "title": "Bleach\u2019s Final Episode Timeskip Officially Debuts Ichigo & Rukia\u2019s Kids in the Anime",
+      "source_url": "https://comicbook.com/anime/feature/bleachs-final-episode-timeskip-officially-debuts-ichigo-rukias-kids-in-the-anime/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
-        "death_or_major_event"
+        "new_character"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-26T19:21:27.763911+00:00"
+      "found_at": "2026-10-27T03:38:04.322285+00:00"
+    },
+    {
+      "title": "Project Hail Mary Author\u2019s Star Wars x Star Trek Crossover Story Idea Is Wild, & McCoy Even \u201cRepairs\u201d Anakin",
+      "source_url": "https://comicbook.com/movies/news/project-hail-mary-authors-star-wars-x-star-trek-crossover-story-idea-is-wild-mccoy-even-repairs-anakin/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-27T03:38:04.322928+00:00"
     }
   ]
 }
