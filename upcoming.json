@@ -1,76 +1,49 @@
 {
-  "updated": "2026-10-27T15:26:37.825822+00:00",
+  "updated": "2026-10-27T18:26:42.635220+00:00",
   "items": [
     {
-      "title": "After Batman, Christian Bale\u2019s Second Attempt at a Hollywood Franchise Totally Backfired\u2026 And It Wasn\u2019t His Fault",
-      "source_url": "https://comicbook.com/movies/feature/after-batman-christian-bales-second-attempt-at-a-hollywood-franchise-totally-backfired-and-it-wasnt-his-fault/",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-27T15:26:37.744715+00:00"
-    },
-    {
-      "title": "Marvel's Twilight Zone-Style Sci-Fi Series Is Ready to Replace the MCU\u2019s Special Presentations",
-      "source_url": "https://www.cbr.com/marvel-comics-journey-into-mystery-mcu-adaptation/",
+      "title": "Apple TV\u2019s New 10-Episode Serial Killer Thriller Debuts to Perfect Rotten Tomatoes Score",
+      "source_url": "https://www.cbr.com/nocturne-apple-tv-rotten-tomatoes-score/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
-        "new_character",
-        "one_shot"
+        "new_character"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-27T12:38:08.564064+00:00"
+      "found_at": "2026-10-27T18:26:37.991237+00:00"
     },
     {
-      "title": "Clayface Hides The Real Reason The DCU's Bruce Wayne Became Batman",
-      "source_url": "https://www.cbr.com/clayface-secret-dcu-bruce-wayne-batman-origin/",
-      "watch_matches": [
-        "Batman"
+      "title": "Tetsuya Chiba, Ashita no Joe\u2019s Legendary Creator, Dies at 87",
+      "source_url": "https://comicbook.com/anime/news/tetsuya-chiba-ashita-no-joes-legendary-creator-dies-at-87/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "tags": [
+        "death_or_major_event"
       ],
+      "priority": "HIGH",
+      "found_at": "2026-10-27T18:26:39.155444+00:00"
+    },
+    {
+      "title": "An MCU Fan Favorite\u2019s First Appearance Is Hiding in This Unexpected Piece of Marvel History",
+      "source_url": "https://comicbook.com/collectibles/news/an-mcu-fan-favorites-first-appearance-is-hiding-in-this-unexpected-piece-of-marvel-history/",
+      "watch_matches": [],
       "creator_matches": [],
       "tags": [
         "new_character"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-27T12:38:08.565832+00:00"
+      "found_at": "2026-10-27T18:26:39.156521+00:00"
     },
     {
-      "title": "10 Years Ago, Scott Snyder Launched an All-Star New Era for Batman",
-      "source_url": "https://www.cbr.com/batman-all-star-scott-synder-tenth-anniversary/",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-27T12:38:08.566480+00:00"
-    },
-    {
-      "title": "Star Wars Episode X Casting Details Reveal Dual Leads & Rey\u2019s Role",
-      "source_url": "https://comicbook.com/starwars/news/star-wars-episode-x-casting-details-reveal-dual-leads-reys-role/",
-      "watch_matches": [
-        "Star Wars"
-      ],
+      "title": "One of the Greatest Horror Remakes Ever Made is 67% Off Right Now",
+      "source_url": "https://comicbook.com/gear/deals/silent-hill-2-ps5-sale/",
+      "watch_matches": [],
       "creator_matches": [],
       "tags": [
-        "new_character"
+        "death_or_major_event"
       ],
       "priority": "HIGH",
-      "found_at": "2026-10-27T12:38:08.786077+00:00"
-    },
-    {
-      "title": "Batman: The Animated Series Foreshadowed the End of Clayface and One Actually Did It Better",
-      "source_url": "https://comicbook.com/movies/feature/batman-the-animated-series-foreshadowed-the-end-of-clayface-and-one-actually-did-it-better/",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-27T12:38:08.786590+00:00"
+      "found_at": "2026-10-27T18:26:39.157006+00:00"
     }
   ]
 }
