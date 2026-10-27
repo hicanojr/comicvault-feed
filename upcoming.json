@@ -1,49 +1,27 @@
 {
-  "updated": "2026-10-27T18:26:42.635220+00:00",
+  "updated": "2026-10-27T21:26:45.079557+00:00",
   "items": [
     {
-      "title": "Apple TV\u2019s New 10-Episode Serial Killer Thriller Debuts to Perfect Rotten Tomatoes Score",
-      "source_url": "https://www.cbr.com/nocturne-apple-tv-rotten-tomatoes-score/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "new_character"
+      "title": "Matt Reeves' 72-Year-Old Sci-Fi Remake Gets Update After The Batman 2 Shakeup",
+      "source_url": "https://www.cbr.com/them-remake-update-matt-reeves-michael-giacchino/",
+      "watch_matches": [
+        "Batman"
       ],
-      "priority": "HIGH",
-      "found_at": "2026-10-27T18:26:37.991237+00:00"
+      "creator_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-27T21:26:40.426906+00:00"
     },
     {
-      "title": "Tetsuya Chiba, Ashita no Joe\u2019s Legendary Creator, Dies at 87",
-      "source_url": "https://comicbook.com/anime/news/tetsuya-chiba-ashita-no-joes-legendary-creator-dies-at-87/",
+      "title": "Bleach Surprises With First Episode Remake in Anime Finale \u2013 Watch Now",
+      "source_url": "https://comicbook.com/anime/news/bleach-surprises-with-first-episode-remake-in-anime-finale-watch-now/",
       "watch_matches": [],
       "creator_matches": [],
       "tags": [
-        "death_or_major_event"
+        "one_shot"
       ],
-      "priority": "HIGH",
-      "found_at": "2026-10-27T18:26:39.155444+00:00"
-    },
-    {
-      "title": "An MCU Fan Favorite\u2019s First Appearance Is Hiding in This Unexpected Piece of Marvel History",
-      "source_url": "https://comicbook.com/collectibles/news/an-mcu-fan-favorites-first-appearance-is-hiding-in-this-unexpected-piece-of-marvel-history/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "new_character"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-27T18:26:39.156521+00:00"
-    },
-    {
-      "title": "One of the Greatest Horror Remakes Ever Made is 67% Off Right Now",
-      "source_url": "https://comicbook.com/gear/deals/silent-hill-2-ps5-sale/",
-      "watch_matches": [],
-      "creator_matches": [],
-      "tags": [
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-27T18:26:39.157006+00:00"
+      "priority": "watch",
+      "found_at": "2026-10-27T21:26:40.699390+00:00"
     }
   ]
 }
