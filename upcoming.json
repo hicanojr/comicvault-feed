@@ -1,4 +1,49 @@
 {
-  "updated": "2026-10-27T06:38:10.922682+00:00",
-  "items": []
+  "updated": "2026-10-27T09:38:13.052120+00:00",
+  "items": [
+    {
+      "title": "It's the Start of a New Era for the Teenage Mutant Ninja Turtles as We Say Hello to Their New Writer",
+      "source_url": "https://www.cbr.com/teenage-mutant-ninja-turtles-rosenberg-new-writer-interview/",
+      "watch_matches": [
+        "Teenage Mutant Ninja Turtles"
+      ],
+      "creator_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-27T09:38:07.032034+00:00"
+    },
+    {
+      "title": "This Might Be Marvel\u2019s Wildest Superhero & I Really Wish He\u2019d Make a Comeback",
+      "source_url": "https://comicbook.com/comics/feature/this-might-be-marvels-wildest-superhero-i-really-wish-hed-make-a-comeback/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-27T09:38:07.231106+00:00"
+    },
+    {
+      "title": "Star Wars Once Gave Away Boba Fett for Free, But That Surprising History Makes This Jawa Even More Valuable",
+      "source_url": "https://comicbook.com/collectibles/news/star-wars-once-gave-away-boba-fett-for-free-that-surprising-history-could-make-this-jawa-more-valuable/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-27T09:38:07.231823+00:00"
+    },
+    {
+      "title": "Captain Planet\u2019s Darkest Episode Turned a Real Public-Health Crisis Into a Supervillain Plot & It Starred Neil Patrick Harris",
+      "source_url": "https://comicbook.com/tv-shows/feature/captain-planets-darkest-episode-turned-a-real-public-health-crisis-into-a-supervillain-plot-it-starred-neil-patrick-harris/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "tags": [
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-27T09:38:07.232157+00:00"
+    }
+  ]
 }
