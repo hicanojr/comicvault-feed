@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T03:56:09.214698+00:00",
+  "updated": "2026-10-28T12:52:36.588830+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -871,7 +871,7 @@
       "issue": "#1",
       "publisher": "DC COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-u20e2rgqaf.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-dc-all-in-saga-darkseid-vs-the-world-1-one-shot-cover-a-sanford-greene",
       "watch_matches": [],
       "creator_matches": [],
@@ -1654,7 +1654,7 @@
       "issue": "#1",
       "publisher": "IMAGE COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-zeemasoqzp.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#image-comics-witchblade-samhain-special-1-one-shot-cover-a-pat-boutin-arif-prianto",
       "watch_matches": [],
       "creator_matches": [],
@@ -2365,6 +2365,26 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-10-28T03:56:09.071669+00:00"
+    },
+    {
+      "title": "Nine Lives and Tesla's Death Ray in Cat-Man Comics #1, at Auction",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/nine-lives-and-a-teslas-death-ray-in-cat-man-comics-1-at-auction/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death",
+        "#1"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
     },
     {
       "title": "Accessories #1 (2nd Printing Cover A Lukas Ketner Black & White Variant)",
@@ -3341,6 +3361,78 @@
       "tags": [
         "variant"
       ],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T03:56:09.071669+00:00"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover A Sid Kotian)",
+      "issue": "#13",
+      "publisher": "IDW PUBLISHING",
+      "release_date": "2026-10-28",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-h0zr6xcxcz.jpg",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-a-sid-kotian",
+      "watch_matches": [
+        "Teenage Mutant Ninja Turtles"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "dies"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T03:56:09.071669+00:00"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover B Clayton Crain)",
+      "issue": "#13",
+      "publisher": "IDW PUBLISHING",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-b-clayton-crain",
+      "watch_matches": [
+        "Teenage Mutant Ninja Turtles"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "dies"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T03:56:09.071669+00:00"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover C Satoshi Shiki)",
+      "issue": "#13",
+      "publisher": "IDW PUBLISHING",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-c-satoshi-shiki",
+      "watch_matches": [
+        "Teenage Mutant Ninja Turtles"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "dies"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T03:56:09.071669+00:00"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover D Alfredo Cardona)",
+      "issue": "#13",
+      "publisher": "IDW PUBLISHING",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-d-alfredo-cardona",
+      "watch_matches": [
+        "Teenage Mutant Ninja Turtles"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "dies"
+      ],
+      "tags": [],
       "priority": "HIGH",
       "found_at": "2026-10-28T03:56:09.071669+00:00"
     },
@@ -5766,6 +5858,92 @@
       "found_at": "2026-10-28T03:56:09.071669+00:00"
     },
     {
+      "title": "Alien vs. X-Men #2 Preview: Cable's Future Shock Therapy",
+      "issue": "#2",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/alien-vs-x-men-2-preview-cables-future-shock-therapy/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "debut"
+      ],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "Amazing-Man Comics #5 and Everett's Search for a Superhero, at Auction",
+      "issue": "#5",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/amazing-man-comics-5-and-everetts-search-for-a-superhero-at-auction/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "debut"
+      ],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "Pathfinder/Vampirella: Blade of Darkness #1 Preview",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/pathfinder-vampirella-blade-of-darkness-1-preview/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "Superman: The Wedding Album – 30th Anniversary Special #1 Preview",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/superman-the-wedding-album-30th-anniversary-special-1-preview/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "VisionQuest Episode 6 Reveals Jocasta’s Real Plan (& Confirms Her Origin Story Doesn’t Follow the Comics)",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/tv-shows/news/visionquest-episode-6-reveals-jocastas-real-plan-confirms-her-origin-story-doesnt-follow-the-comics/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "origin"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
       "title": "Absolute Batman #25 (Cover C Greg Capullo Card Stock Variant)",
       "issue": "#25",
       "publisher": "DC COMICS",
@@ -7051,13 +7229,31 @@
       "found_at": "2026-10-28T03:56:09.071669+00:00"
     },
     {
+      "title": "Justice League Unlimited #24 (Cover A Dan Mora)",
+      "issue": "#24",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-4cs8d5chdd.jpg",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-a-dan-mora",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T03:56:09.071669+00:00"
+    },
+    {
       "title": "Justice League Unlimited #24 (Cover B Bruno Redondo Card Stock Variant)",
       "issue": "#24",
       "publisher": "DC COMICS",
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-b-bruno-redondo-card-stock-variant",
-      "watch_matches": [],
+      "watch_matches": [
+        "Batman"
+      ],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7073,7 +7269,9 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-c-nathan-szerdy-card-stock-variant",
-      "watch_matches": [],
+      "watch_matches": [
+        "Batman"
+      ],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7089,7 +7287,9 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-d-rachta-lin-card-stock-variant",
-      "watch_matches": [],
+      "watch_matches": [
+        "Batman"
+      ],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7105,7 +7305,9 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-e-steve-skroce-card-stock-variant",
-      "watch_matches": [],
+      "watch_matches": [
+        "Batman"
+      ],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7121,7 +7323,9 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-f-stjepan-sejic-kingdom-come-30th-anniversary-card-stock",
-      "watch_matches": [],
+      "watch_matches": [
+        "Batman"
+      ],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -8041,70 +8245,6 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-ongoing-compendium-volume-3-tp",
-      "watch_matches": [
-        "Teenage Mutant Ninja Turtles"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-28T03:56:09.071669+00:00"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover A Sid Kotian)",
-      "issue": "#13",
-      "publisher": "IDW PUBLISHING",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-a-sid-kotian",
-      "watch_matches": [
-        "Teenage Mutant Ninja Turtles"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-28T03:56:09.071669+00:00"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover B Clayton Crain)",
-      "issue": "#13",
-      "publisher": "IDW PUBLISHING",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-b-clayton-crain",
-      "watch_matches": [
-        "Teenage Mutant Ninja Turtles"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-28T03:56:09.071669+00:00"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover C Satoshi Shiki)",
-      "issue": "#13",
-      "publisher": "IDW PUBLISHING",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-c-satoshi-shiki",
-      "watch_matches": [
-        "Teenage Mutant Ninja Turtles"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-28T03:56:09.071669+00:00"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles Shredder #13 (Cover D Alfredo Cardona)",
-      "issue": "#13",
-      "publisher": "IDW PUBLISHING",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-teenage-mutant-ninja-turtles-shredder-13-cover-d-alfredo-cardona",
       "watch_matches": [
         "Teenage Mutant Ninja Turtles"
       ],
@@ -10293,6 +10433,135 @@
       "found_at": "2026-10-28T03:56:09.071669+00:00"
     },
     {
+      "title": "Absolute Joker Reveals New History In Absolute Batman #25 (Spoilers)",
+      "issue": "#25",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/absolute-joker-reveals-new-history-in-absolute-batman-25-spoilers/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "An Absolute Intervention In Absolute Batman #25 (Spoilers)",
+      "issue": "#25",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/an-absolute-intervention-in-absolute-batman-25-spoilers/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "Batman: Bad Seeds Ends, Sun Rises, Crocs Feed, Spoiler's Spoiled",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/batman-bad-seeds-ends-sun-rises-crocs-feed-spoilers-spoiled/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "DC All In Saga: Darkseid Vs The World Is Also An Absolute Batman Comic",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/dc-all-in-saga-darkseid-vs-the-world-an-absolute-batman-comic/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "Long Before Batman & Daredevil, Ben Affleck’s First Superhero Role Saw Him Replacing Harrison Ford",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/long-before-batman-daredevil-ben-afflecks-first-superhero-role-saw-him-replacing-harrison-ford/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "R.E. Burke's Visiting America: 19 Days In An I.C.E. Facility, In 2027",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/r-e-burkes-visiting-america-19-days-in-an-i-c-e-facility-in-2027/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "one-shot",
+        "one_shot"
+      ],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "Star Wars Had a Very Strange M&M’s Collaboration and One Leia Figure Makes It Even Weirder",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/star-wars-had-a-very-strange-mms-collaboration-and-one-leia-figure-makes-it-even-weirder/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
+      "title": "Tomb of Apocalypse #3 Preview: Horsemen Follow Their Leader",
+      "issue": "#3",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/tomb-of-apocalypse-3-preview-horsemen-follow-their-leader/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-28T12:52:36.577780+00:00"
+    },
+    {
       "title": "100th Time's The Charm She Was Executed 99 Times So How Did She Unlock Super Love Mode Volume 3 GN",
       "issue": "Volume 3",
       "publisher": "J-NOVEL CLUB",
@@ -10815,7 +11084,7 @@
       "issue": "#2",
       "publisher": "DARK HORSE COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-w6aa97aiqb.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-big-shakedown-2-of-4-cover-a-scott-koblish",
       "watch_matches": [],
       "creator_matches": [],
@@ -12159,7 +12428,7 @@
       "issue": "#11",
       "publisher": "IMAGE COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-ucvhagcogy.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#image-comics-final-boss-11-cover-a-ale-garza",
       "watch_matches": [],
       "creator_matches": [],
@@ -13079,20 +13348,6 @@
       "found_at": "2026-10-28T03:56:09.071669+00:00"
     },
     {
-      "title": "Justice League Unlimited #24 (Cover A Dan Mora)",
-      "issue": "#24",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-a-dan-mora",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-10-28T03:56:09.071669+00:00"
-    },
-    {
       "title": "Kiki's Delivery Service The Official Cookbook HC",
       "issue": "",
       "publisher": "STUDIO GHIBLI LIBRARY",
@@ -13895,7 +14150,7 @@
       "issue": "#4",
       "publisher": "IDW PUBLISHING",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-mbxdegkcsp.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-rocketeer-infiltrator-4-cover-a-dean-kotz",
       "watch_matches": [],
       "creator_matches": [],
@@ -14889,7 +15144,7 @@
       "issue": "#5",
       "publisher": "DARK HORSE COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-xxhtkvjyk4.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-umbrella-academy-plan-b-5-of-6-cover-a-gabriel-ba",
       "watch_matches": [],
       "creator_matches": [],
