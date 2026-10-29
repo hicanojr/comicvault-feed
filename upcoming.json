@@ -1,33 +1,7 @@
 {
-  "updated": "2026-10-29T07:43:13.236900+00:00",
+  "updated": "2026-10-29T22:46:58.209496+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
-    {
-      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover E Stanley Artgerm Lau Foil Variant)",
-      "issue": "#1",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-e-stanley-artgerm-lau",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "one-shot",
-        "#1",
-        "foil variant",
-        "foil"
-      ],
-      "tags": [
-        "death",
-        "one-shot",
-        "variant",
-        "death_or_major_event",
-        "one_shot"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
     {
       "title": "Batman Bad Seeds Sunrise #1 (One Shot)(Cover D Stjepan Sejic Bad Seeds Spot Foil Variant)",
       "issue": "#1",
@@ -125,6 +99,29 @@
       "found_at": "2026-10-29T07:43:13.229014+00:00"
     },
     {
+      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover E Stanley Artgerm Lau Foil Variant)",
+      "issue": "#1",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-e-stanley-artgerm-lau",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot",
+        "#1",
+        "foil variant",
+        "foil"
+      ],
+      "tags": [
+        "one-shot",
+        "variant",
+        "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
       "title": "Batman Bad Seeds Gotham General #1 (Of 2)(Cover D Dustin Nguyen Bad Seeds Spot Foil Variant)",
       "issue": "#1",
       "publisher": "DC COMICS",
@@ -202,233 +199,6 @@
       ],
       "tags": [
         "variant"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman #43 (Cover A Xermanico)",
-      "issue": "#43",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-wyfrjdoxoa.jpg",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-a-xermanico",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "new story arc",
-        "returns"
-      ],
-      "tags": [
-        "death",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman #43 (Cover B Brett Bean Card Stock Variant)",
-      "issue": "#43",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-b-brett-bean-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "new story arc",
-        "returns"
-      ],
-      "tags": [
-        "death",
-        "variant",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman #43 (Cover C Bailie Rosenlund Card Stock Variant)",
-      "issue": "#43",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-c-bailie-rosenlund-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "new story arc",
-        "returns"
-      ],
-      "tags": [
-        "death",
-        "variant",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman #43 (Cover D Rachta Lin Card Stock Variant)",
-      "issue": "#43",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-d-rachta-lin-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "new story arc",
-        "returns"
-      ],
-      "tags": [
-        "death",
-        "variant",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman #43 (Cover E Ben Oliver Kingdom Come 30th Anniversary Card Stock Variant)",
-      "issue": "#43",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-e-ben-oliver-kingdom-come-30th-anniversary-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "new story arc",
-        "returns"
-      ],
-      "tags": [
-        "death",
-        "variant",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman #43 (Cover F Stevan Subic Glow-In-The-Dark Card Stock Variant)",
-      "issue": "#43",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-f-stevan-subic-glow-in-the-dark-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "new story arc",
-        "returns"
-      ],
-      "tags": [
-        "death",
-        "variant",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover A Dan Jurgens & Jerry Ordway Wraparound Variant)",
-      "issue": "#1",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-gz2w4mrj7a.jpg",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-a-dan-jurgens-jerry-o",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "one-shot",
-        "#1"
-      ],
-      "tags": [
-        "death",
-        "one-shot",
-        "variant",
-        "death_or_major_event",
-        "one_shot"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover B Stanley Artgerm Lau Card Stock Variant)",
-      "issue": "#1",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-b-stanley-artgerm-lau",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "one-shot",
-        "#1"
-      ],
-      "tags": [
-        "death",
-        "one-shot",
-        "variant",
-        "death_or_major_event",
-        "one_shot"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover C Terry Dodson Card Stock Variant)",
-      "issue": "#1",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-c-terry-dodson-card-s",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "one-shot",
-        "#1"
-      ],
-      "tags": [
-        "death",
-        "one-shot",
-        "variant",
-        "death_or_major_event",
-        "one_shot"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover D Joshua Middleton Wraparound Card Stock Variant)",
-      "issue": "#1",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-d-joshua-middleton-wr",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "death",
-        "one-shot",
-        "#1"
-      ],
-      "tags": [
-        "death",
-        "one-shot",
-        "variant",
-        "death_or_major_event",
-        "one_shot"
       ],
       "priority": "HIGH",
       "found_at": "2026-10-29T07:43:13.229014+00:00"
@@ -1592,6 +1362,90 @@
       "found_at": "2026-10-29T07:43:13.229014+00:00"
     },
     {
+      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover A Dan Jurgens & Jerry Ordway Wraparound Variant)",
+      "issue": "#1",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-gz2w4mrj7a.jpg",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-a-dan-jurgens-jerry-o",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot",
+        "#1"
+      ],
+      "tags": [
+        "one-shot",
+        "variant",
+        "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover B Stanley Artgerm Lau Card Stock Variant)",
+      "issue": "#1",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-b-stanley-artgerm-lau",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot",
+        "#1"
+      ],
+      "tags": [
+        "one-shot",
+        "variant",
+        "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover C Terry Dodson Card Stock Variant)",
+      "issue": "#1",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-c-terry-dodson-card-s",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot",
+        "#1"
+      ],
+      "tags": [
+        "one-shot",
+        "variant",
+        "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman The Wedding Album 30th Anniversary Special #1 (One Shot)(Cover D Joshua Middleton Wraparound Card Stock Variant)",
+      "issue": "#1",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-the-wedding-album-30th-anniversary-special-1-one-shot-cover-d-joshua-middleton-wr",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot",
+        "#1"
+      ],
+      "tags": [
+        "one-shot",
+        "variant",
+        "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
       "title": "Universal Monsters Bride Of Frankenstein Lives #1 (Of 4)(Cover K Ryan Sook Die Cut Foil Hairiant Variant)",
       "issue": "#1",
       "publisher": "IMAGE COMICS",
@@ -2388,6 +2242,26 @@
       "found_at": "2026-10-29T07:43:13.229014+00:00"
     },
     {
+      "title": "The Hangman's Solo Series Debut Becomes Special Comics #1, at Auction",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/the-hangmans-solo-series-debut-becomes-special-comics-1-at-auction/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1",
+        "debut"
+      ],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
       "title": "Accessories #1 (2nd Printing Cover A Lukas Ketner Black & White Variant)",
       "issue": "#1",
       "publisher": "PANICK ENTERTAINMENT",
@@ -2905,6 +2779,44 @@
       ],
       "tags": [
         "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Masters Of The Universe Genesis #3 (Of 12)(Cover A Mark Buckingham)",
+      "issue": "#3",
+      "publisher": "DARK HORSE COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-xhiirexiwi.jpg",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-masters-of-the-universe-genesis-3-of-12-cover-a-mark-buckingham",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "final issue"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Masters Of The Universe Genesis #3 (Of 12)(Cover B Fero Peniche)",
+      "issue": "#3",
+      "publisher": "DARK HORSE COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-masters-of-the-universe-genesis-3-of-12-cover-b-fero-peniche",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "final issue"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
       ],
       "priority": "HIGH",
       "found_at": "2026-10-29T07:43:13.229014+00:00"
@@ -5857,6 +5769,73 @@
       "found_at": "2026-10-29T07:43:13.229014+00:00"
     },
     {
+      "title": "Comics Folk React To The News Of The Death Of Sir Patrick Stewart",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/comics-folk-react-to-the-news-of-the-death-of-sir-patrick-stewart/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "First Look At Post-Bad-Seeds Gangs Of Gotham, With Anarky & Minotaur",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/first-look-at-post-bad-seeds-gangs-of-gotham-with-anarky-minotaur/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "Mike Baron & Pat Broderick's Bronze Star At American Mythology In 2027",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/mike-baron-pat-brodericks-bronze-star-at-american-mythology-in-2027/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "The Horror of Godzilla #2 Is an Intense, Chilling Continuation & We Have a First Look (Early Review) [EXCLUSIVE]",
+      "issue": "#2",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/review/the-horror-of-godzilla-2-is-an-intense-chilling-continuation-we-have-a-first-look-early-review-exclusive/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "origin"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
       "title": "Absolute Batman #25 (Cover C Greg Capullo Card Stock Variant)",
       "issue": "#25",
       "publisher": "DC COMICS",
@@ -5910,6 +5889,41 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "5 More Fantasy TV Shows Cancelled Way Too Soon (#2 Abruptly Killed An Underrated Fantasy Franchise)",
+      "issue": "#2",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/tv-shows/list/5-more-fantasy-tv-shows-cancelled-way-too-soon-2-abruptly-killed-an-underrated-fantasy-franchise/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "PUG-W January 2027 Solicits Brian Bendis & Sara Pichelli 3D Spider-Men",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/pug-w-january-2027-solicits-brian-bendis-sara-pichelli-3d-spider-men/",
+      "watch_matches": [],
+      "creator_matches": [
+        "Brian Michael Bendis"
+      ],
+      "keyword_matches": [],
+      "tags": [
+        "special_creator"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
     },
     {
       "title": "Absolute Batman #25 (Cover A Nick Dragotta Gatefold Triptych Variant)",
@@ -7142,31 +7156,13 @@
       "found_at": "2026-10-29T07:43:13.229014+00:00"
     },
     {
-      "title": "Justice League Unlimited #24 (Cover A Dan Mora)",
-      "issue": "#24",
-      "publisher": "DC COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-4cs8d5chdd.jpg",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-a-dan-mora",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
       "title": "Justice League Unlimited #24 (Cover B Bruno Redondo Card Stock Variant)",
       "issue": "#24",
       "publisher": "DC COMICS",
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-b-bruno-redondo-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7182,9 +7178,7 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-c-nathan-szerdy-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7200,9 +7194,7 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-d-rachta-lin-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7218,9 +7210,7 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-e-steve-skroce-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7236,9 +7226,7 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-f-stjepan-sejic-kingdom-come-30th-anniversary-card-stock",
-      "watch_matches": [
-        "Batman"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -8030,6 +8018,86 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#oni-press-super-mondo-mega-mutts-4-of-4-cover-f-juan-gedeon-bloody-black-white-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "variant"
+      ],
+      "priority": "watch",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman #43 (Cover B Brett Bean Card Stock Variant)",
+      "issue": "#43",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-b-brett-bean-card-stock-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "variant"
+      ],
+      "priority": "watch",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman #43 (Cover C Bailie Rosenlund Card Stock Variant)",
+      "issue": "#43",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-c-bailie-rosenlund-card-stock-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "variant"
+      ],
+      "priority": "watch",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman #43 (Cover D Rachta Lin Card Stock Variant)",
+      "issue": "#43",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-d-rachta-lin-card-stock-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "variant"
+      ],
+      "priority": "watch",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman #43 (Cover E Ben Oliver Kingdom Come 30th Anniversary Card Stock Variant)",
+      "issue": "#43",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-e-ben-oliver-kingdom-come-30th-anniversary-card-stock-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "variant"
+      ],
+      "priority": "watch",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman #43 (Cover F Stevan Subic Glow-In-The-Dark Card Stock Variant)",
+      "issue": "#43",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-f-stevan-subic-glow-in-the-dark-card-stock-variant",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
@@ -10379,6 +10447,86 @@
       "found_at": "2026-10-29T07:43:13.229014+00:00"
     },
     {
+      "title": "DCU Batman Details Confirmed By James Gunn, And Casting “Isn’t Very Far Away”",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/dcu-batman-details-confirmed-by-james-gunn-and-casting-isnt-very-far-away/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "Following Absolute Batman #25, Absolute Catwoman Gets Another 6 Issues",
+      "issue": "#25",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/following-absolute-batman-25-absolute-catwoman-gets-another-6-issues/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "Harley Quinn’s DCU Future With Margot Robbie Officially Addressed by James Gunn & Whether He’ll Replace Her",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/harley-quinns-dcu-future-with-margot-robbie-officially-addressed-by-james-gunn-whether-hell-replace-her/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "Henry Cavill's Voltron is Star Wars Meets Transformers",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/henry-cavill-voltron-is-star-wars-transformers/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
+      "title": "James Gunn Confirms DCU's Batman Will Be Chosen Soon With Major Casting Change",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/james-gunn-dcu-batman-casting-update/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-10-29T22:46:57.795710+00:00"
+    },
+    {
       "title": "The Best Disney Holiday Special Ever Returns to ABC After 23 Years",
       "issue": "",
       "publisher": "",
@@ -10875,7 +11023,7 @@
       "issue": "#3",
       "publisher": "DARK HORSE COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-wrmnfwlwot.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-beast-of-boriken-3-of-5-cover-a-daniel-irizarri",
       "watch_matches": [],
       "creator_matches": [],
@@ -11981,7 +12129,7 @@
       "issue": "#2",
       "publisher": "DARK HORSE COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-jv7rzvwmbl.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-dungeons-and-dragons-ravenloft-2-of-4-cover-a-guillem-march",
       "watch_matches": [],
       "creator_matches": [],
@@ -12373,7 +12521,7 @@
       "issue": "#3",
       "publisher": "ONI PRESS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-t8cnquxpju.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#oni-press-fort-psycho-3-of-12-cover-a-brian-hurtt",
       "watch_matches": [],
       "creator_matches": [],
@@ -12835,7 +12983,7 @@
       "issue": "#3",
       "publisher": "DARK HORSE COMICS",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-dei8bgpweh.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-groo-the-prophecy-3-of-4-cover-a-sergio-aragones",
       "watch_matches": [],
       "creator_matches": [],
@@ -13181,6 +13329,20 @@
       "found_at": "2026-10-29T07:43:13.229014+00:00"
     },
     {
+      "title": "Justice League Unlimited #24 (Cover A Dan Mora)",
+      "issue": "#24",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-4cs8d5chdd.jpg",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-justice-league-unlimited-24-cover-a-dan-mora",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
       "title": "Kiki's Delivery Service The Official Cookbook HC",
       "issue": "",
       "publisher": "STUDIO GHIBLI LIBRARY",
@@ -13509,34 +13671,6 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-books-marvels-mightiest-monsters-hc",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Masters Of The Universe Genesis #3 (Of 12)(Cover A Mark Buckingham)",
-      "issue": "#3",
-      "publisher": "DARK HORSE COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-masters-of-the-universe-genesis-3-of-12-cover-a-mark-buckingham",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-10-29T07:43:13.229014+00:00"
-    },
-    {
-      "title": "Masters Of The Universe Genesis #3 (Of 12)(Cover B Fero Peniche)",
-      "issue": "#3",
-      "publisher": "DARK HORSE COMICS",
-      "release_date": "2026-10-28",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dark-horse-comics-masters-of-the-universe-genesis-3-of-12-cover-b-fero-peniche",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
@@ -14319,7 +14453,7 @@
       "issue": "#91",
       "publisher": "IDW PUBLISHING",
       "release_date": "2026-10-28",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-vomta0cpjj.jpg",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#idw-publishing-sonic-the-hedgehog-91-cover-a-min-ho-kim",
       "watch_matches": [],
       "creator_matches": [],
@@ -14489,6 +14623,20 @@
       "release_date": "2026-10-28",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#oni-press-super-mondo-mega-mutts-4-of-4-cover-c-dalton-rose",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-10-29T07:43:13.229014+00:00"
+    },
+    {
+      "title": "Superman #43 (Cover A Xermanico)",
+      "issue": "#43",
+      "publisher": "DC COMICS",
+      "release_date": "2026-10-28",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-wyfrjdoxoa.jpg",
+      "source_url": "https://comiclist.info/2026/10/26/chucks-comic-list-for-october.html#dc-comics-superman-43-cover-a-xermanico",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
