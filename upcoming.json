@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T10:49:30.332367+00:00",
+  "updated": "2026-11-04T01:03:37.181255+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -475,7 +475,7 @@
       "issue": "#1",
       "publisher": "MARVEL COMICS",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-5eqgwr710t.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-challenges-of-doom-doctor-strange-1-one-shot-cover-a-fabrizio-de-tommaso",
       "watch_matches": [],
       "creator_matches": [],
@@ -656,7 +656,7 @@
       "issue": "#1",
       "publisher": "MARVEL COMICS",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-pzrwop2qzi.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-infernal-hulk-vs-spider-man-1-one-shot-cover-a-nic-klein",
       "watch_matches": [
         "Spider-Man"
@@ -4696,6 +4696,130 @@
       "found_at": "2026-11-03T10:49:30.325073+00:00"
     },
     {
+      "title": "5 Batman Villains Defined By Their Tragic Origin Stories, & 1 Has His Own Horror Movie",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/5-batman-villains-defined-by-their-tragic-origin-stories-1-has-his-own-horror-movie/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "origin"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Chip Zdarsky On Miracleman, Politics And Spider-Man",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/chip-zdarsky-on-miracleman-politics-and-spider-man/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Final Destination For Aunt May And For The Spider-Marriage? (Spoilers)",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/final-destination-for-aunt-may-and-for-the-spider-marriage-spoilers/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Philbo Distribution Sends Philviews To Print, Discount, Returns & FOC",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/philbo-distribution-sends-philviews-to-print-discount-returns-foc/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "returns"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Red Sonja/Barbarella #1 Preview: Swords, Sci-Fi, and Blood Debts",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/red-sonja-barbarella-1-preview-swords-sci-fi-and-blood-debts/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Spoilers! Lynxana Comic Inside Tomorrow's ThunderCats #1 Blind Bag",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/spoilers-lynxana-comic-inside-tomorrows-thundercats-1-blind-bag/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Top Ten Hottest Comics: Absolute Batman, Doctor Doom & Patrick Stewart",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/top-ten-hottest-comics-absolute-batman-doctor-doom-patrick-stewart/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
       "title": "Smile Any Given Smile #2 (Of 5)(Cover A Ashley Witter)",
       "issue": "#2",
       "publisher": "IDW DARK",
@@ -6469,7 +6593,7 @@
       "issue": "#15",
       "publisher": "IDW PUBLISHING",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-blfrvcpeow.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#idw-publishing-teenage-mutant-ninja-turtles-journeys-15-cover-a-michael-dooney-jim-lawson",
       "watch_matches": [
         "Teenage Mutant Ninja Turtles"
@@ -6513,31 +6637,13 @@
       "found_at": "2026-11-03T10:49:30.325073+00:00"
     },
     {
-      "title": "Uncanny X-Men #38 (Cover A Juan Frigeri)",
-      "issue": "#38",
-      "publisher": "MARVEL COMICS",
-      "release_date": "2026-11-04",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-cb52yforbm.jpg",
-      "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-uncanny-x-men-38-cover-a-juan-frigeri",
-      "watch_matches": [
-        "Wolverine"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-11-03T10:49:30.325073+00:00"
-    },
-    {
       "title": "Uncanny X-Men #38 (Cover B Peach Momoko Momo-Tone Variant)",
       "issue": "#38",
       "publisher": "MARVEL COMICS",
       "release_date": "2026-11-04",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-uncanny-x-men-38-cover-b-peach-momoko-momo-tone-variant",
-      "watch_matches": [
-        "Wolverine"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -6553,30 +6659,12 @@
       "release_date": "2026-11-04",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-uncanny-x-men-38-cover-c-luciano-vecchio-workout-variant",
-      "watch_matches": [
-        "Wolverine"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
         "variant"
       ],
-      "priority": "watch",
-      "found_at": "2026-11-03T10:49:30.325073+00:00"
-    },
-    {
-      "title": "Uncanny X-Men #38 (Cover D Martin Coccolo)",
-      "issue": "#38",
-      "publisher": "MARVEL COMICS",
-      "release_date": "2026-11-04",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-uncanny-x-men-38-cover-d-martin-coccolo",
-      "watch_matches": [
-        "Wolverine"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
       "priority": "watch",
       "found_at": "2026-11-03T10:49:30.325073+00:00"
     },
@@ -9093,6 +9181,183 @@
       "found_at": "2026-11-03T10:49:30.325073+00:00"
     },
     {
+      "title": "5 Lessons Star Wars Episode X HAS to Learn From the Sequel Trilogy’s Mistakes",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/list/5-lessons-star-wars-episode-x-has-to-learn-from-the-sequel-trilogys-mistakes/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "A Perfect Star Wars Trading Card Is Battling Against Harry Potter in an Auction Worth Thousands",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/starwars/news/a-perfect-star-wars-trading-card-is-battling-against-harry-potter-in-an-auction-worth-thousands/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Ahsoka Season 2 To Include Other Animated Star Wars Characters, And Fans Want One In Particular",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/tv-shows/news/ahsoka-season-2-to-include-other-animated-star-wars-characters-and-fans-want-one-in-particular/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Batman #15 Leads The Top 50 Anticipated Comics Tomorrow",
+      "issue": "#15",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/batman-15-leads-the-top-50-anticipated-comics-this-wednesday/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Bossk Is One Of Star Wars’ Most Fearsome Bounty Hunters, But This Pink Prototype Makes Him Look Like A Valentine’s Day Gift",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/bossk-is-one-of-star-wars-most-fearsome-bounty-hunters-but-this-pink-prototype-makes-him-look-like-a-valentines-day-gift/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "DC Boss Reveals What Made New Robin Actor the Perfect Choice for Dynamic Duo Movie",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/dc-boss-reveals-what-made-new-robin-actor-the-perfect-choice-for-dynamic-duo-movie/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Naruto Live-Action Movie Confirms Filming Starts Soon With New Sony Team Up",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/anime/news/naruto-live-action-movie-confirms-filming-starts-soon-with-new-sony-team-up/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Quinlan's Wartime Heroes in Cat-Man Comics #12, at Auction",
+      "issue": "#12",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/quinlans-wartime-heroes-in-cat-man-comics-12-at-auction/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Spider-Man’s Most Underrated Villain Just Proved Why He Is the Greatest Thief in Marvel Comics",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/feature/spider-mans-most-underrated-villain-just-proved-why-he-is-the-greatest-thief-in-marvel-comics/",
+      "watch_matches": [
+        "Spider-Man",
+        "Venom"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "Spider-Man’s Weirdest Villain Only Appeared Once, But He Remains 1 of Marvel’s Best Memes",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/feature/spider-mans-weirdest-villain-only-appeared-once-but-he-remains-1-of-marvels-best-memes/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
+      "title": "The Batman Part II Needs to Show the Sick Secret of Harvey Dent’s Coin and the Trauma That Created Two-Face",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/the-batman-part-ii-needs-to-show-the-sick-secret-of-harvey-dents-coin-and-the-trauma-that-created-two-face/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-04T01:03:37.092067+00:00"
+    },
+    {
       "title": "2000 AD #2505",
       "issue": "#2505",
       "publisher": "REBELLION PUBLISHING",
@@ -10497,7 +10762,7 @@
       "issue": "#14",
       "publisher": "IDW PUBLISHING",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-iyi1tw7rnr.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#idw-publishing-godzilla-14-kai-sei-era-cover-a-ito",
       "watch_matches": [],
       "creator_matches": [],
@@ -10735,7 +11000,7 @@
       "issue": "#8",
       "publisher": "MAD CAVE STUDIOS",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-m5u1vpkhfj.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#mad-cave-studios-honor-and-curse-eternal-8-of-12-cover-a-nick-marinkovich",
       "watch_matches": [],
       "creator_matches": [],
@@ -10889,7 +11154,7 @@
       "issue": "#5",
       "publisher": "MAD CAVE STUDIOS",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-numuo5y2on.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#mad-cave-studios-land-of-never-5-of-6-cover-a-miguel-mora",
       "watch_matches": [],
       "creator_matches": [],
@@ -10931,7 +11196,7 @@
       "issue": "#4",
       "publisher": "MAD CAVE STUDIOS",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-y6ihgqgcmr.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#mad-cave-studios-last-starfighter-4-cover-a-taurin-clarke",
       "watch_matches": [],
       "creator_matches": [],
@@ -11561,7 +11826,7 @@
       "issue": "#4",
       "publisher": "MAD CAVE STUDIOS",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-zys1sahglr.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#mad-cave-studios-omega-book-4-of-5-cover-a-pauli-junquera",
       "watch_matches": [],
       "creator_matches": [],
@@ -12121,7 +12386,7 @@
       "issue": "#2",
       "publisher": "MAD CAVE STUDIOS",
       "release_date": "2026-11-04",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-l3wnzngvyk.jpg",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#mad-cave-studios-sunder-2-cover-a-pierre-alexandre-comtois",
       "watch_matches": [],
       "creator_matches": [],
@@ -12543,6 +12808,34 @@
       "release_date": "2026-11-04",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#shonen-jump-ultimate-exorcist-kiyosh-volume-4-gn",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-11-03T10:49:30.325073+00:00"
+    },
+    {
+      "title": "Uncanny X-Men #38 (Cover A Juan Frigeri)",
+      "issue": "#38",
+      "publisher": "MARVEL COMICS",
+      "release_date": "2026-11-04",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-cb52yforbm.jpg",
+      "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-uncanny-x-men-38-cover-a-juan-frigeri",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-11-03T10:49:30.325073+00:00"
+    },
+    {
+      "title": "Uncanny X-Men #38 (Cover D Martin Coccolo)",
+      "issue": "#38",
+      "publisher": "MARVEL COMICS",
+      "release_date": "2026-11-04",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/02/chucks-comic-list-for-november.html#marvel-comics-uncanny-x-men-38-cover-d-martin-coccolo",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
