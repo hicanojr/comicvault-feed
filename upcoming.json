@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T09:24:19.144154+00:00",
+  "updated": "2026-11-09T22:19:01.984684+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -106,6 +106,27 @@
       ],
       "tags": [
         "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T09:24:19.134414+00:00"
+    },
+    {
+      "title": "Scott Pilgrim EX Dawn Of Metal Scott #1 (One Shot)(Cover A Bryan Lee O'Malley)",
+      "issue": "#1",
+      "publisher": "ONI PRESS",
+      "release_date": "2026-11-11",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-ygt1ettbi8.jpg",
+      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#oni-press-scott-pilgrim-ex-dawn-of-metal-scott-1-one-shot-cover-a-bryan-lee-omalley",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot",
+        "#1",
+        "returns"
+      ],
+      "tags": [
+        "one-shot",
+        "one_shot"
       ],
       "priority": "HIGH",
       "found_at": "2026-11-09T09:24:19.134414+00:00"
@@ -604,26 +625,6 @@
       ],
       "tags": [
         "variant"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-09T09:24:19.134414+00:00"
-    },
-    {
-      "title": "Scott Pilgrim EX Dawn Of Metal Scott #1 (One Shot)(Cover A Bryan Lee O'Malley)",
-      "issue": "#1",
-      "publisher": "ONI PRESS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#oni-press-scott-pilgrim-ex-dawn-of-metal-scott-1-one-shot-cover-a-bryan-lee-omalley",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "one-shot",
-        "#1"
-      ],
-      "tags": [
-        "one-shot",
-        "one_shot"
       ],
       "priority": "HIGH",
       "found_at": "2026-11-09T09:24:19.134414+00:00"
@@ -1594,6 +1595,54 @@
       "tags": [
         "variant"
       ],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T09:24:19.134414+00:00"
+    },
+    {
+      "title": "Odin #5 (Of 9)(Cover A Alex Eckman Lawn)",
+      "issue": "#5",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-rqb1mllyob.jpg",
+      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#image-comics-odin-5-of-9-cover-a-alex-eckman-lawn",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T09:24:19.134414+00:00"
+    },
+    {
+      "title": "Odin #5 (Of 9)(Cover B Letizia Cadonici & Alessandro Santoro)",
+      "issue": "#5",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#image-comics-odin-5-of-9-cover-b-letizia-cadonici-alessandro-santoro",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T09:24:19.134414+00:00"
+    },
+    {
+      "title": "Odin #5 (Of 9)(Cover C Chloe Brailsford)",
+      "issue": "#5",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#image-comics-odin-5-of-9-cover-c-chloe-brailsford",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
       "priority": "HIGH",
       "found_at": "2026-11-09T09:24:19.134414+00:00"
     },
@@ -3916,6 +3965,42 @@
       "found_at": "2026-11-09T09:24:19.134414+00:00"
     },
     {
+      "title": "BloodRayne Returns To Comics For Her 25th Anniversary",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/bloodrayne-returns-to-comics-for-her-25th-anniversary/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "returns"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "This Copy of Gambit’s First Appearance Is a Perfect Ten, But That Might Not Be Enough for Some Collectors",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/this-copy-of-gambits-first-appearance-is-a-perfect-ten-but-that-might-not-be-enough-for-some-collectors/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "first appearance"
+      ],
+      "tags": [
+        "first appearance",
+        "new character",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
       "title": "Only I Know The World Is Ending And Getting Killed By Rampaging Beasts Only Makes Me Stronger Volume 7 GN",
       "issue": "Volume 7",
       "publisher": "SEVEN SEAS ENTERTAINMENT",
@@ -3931,6 +4016,24 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-09T09:24:19.134414+00:00"
+    },
+    {
+      "title": "Todd McFarlane Sells His Toys In The Daily LITG, 9th of November, 2026",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/collectibles/todd-mcfarlane-sells-his-toys-in-the-daily-litg-9th-of-november-2026/",
+      "watch_matches": [],
+      "creator_matches": [
+        "Todd McFarlane"
+      ],
+      "keyword_matches": [],
+      "tags": [
+        "special_creator"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
     },
     {
       "title": "Action Comics #1104 (Cover B Ryan Sook Card Stock Variant)",
@@ -8431,6 +8534,102 @@
       "found_at": "2026-11-09T09:24:19.134414+00:00"
     },
     {
+      "title": "2026 PS5 Exclusive Leaked to Release on PS4",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/gaming/news/ps5-games-2026-exclusive-release-ps4-leak/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "Batman Officially Says Goodbye To Alfred Pennyworth At The End Of An Era Together",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/batman-robin-year-one-dynamic-duos-4-alfred-leaves/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "Batman: Mask of the Phantasm’s Biggest Twist Lives On in This Rare Piece of Original Comic Art",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/batman-mask-of-the-phantasms-biggest-twist-lives-on-in-this-rare-piece-of-original-comic-art/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "Channing Tatum Gives Gambit Solo Movie Update Despite X-Men Reboot Recasting Rumors",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/channing-tatum-gives-gambit-solo-movie-update-despite-x-men-reboot-recasting-rumors/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "Game of Thrones Actor Responds to Wolverine Casting Rumors: “I Would Be Scared”",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/game-of-thrones-actor-responds-to-wolverine-casting-rumors-i-would-be-scared/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "Gotham City Has Seen Some Dark Days, But These 5 Batman Stories Were Apocalyptic",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/gotham-city-has-seen-some-dark-days-but-these-5-batman-stories-were-apocalyptic/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
       "title": "Spider-Verse 3 Update is Exactly What Fans Need to Hear & Teases “Greatest End to a Trilogy” Ever",
       "issue": "",
       "publisher": "",
@@ -8461,6 +8660,70 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-09T09:24:19.134414+00:00"
+    },
+    {
+      "title": "The Batman 2026 Annual, Minotaur's Plans For Gotham And The Calculator",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/the-batman-2026-annual-minotaurs-plans-for-gotham-and-the-calculator/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "The Best Episode of Star Wars TV Premiered 4 Years Ago, And Gave the Franchise a Major Accomplishment",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/tv-shows/feature/the-best-episode-of-star-wars-tv-premiered-4-years-ago-and-gave-the-franchise-a-major-accomplishment/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "This Is Still the Most Important Batman Movie in the Character’s History, And I Can Prove It",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/list/this-is-still-the-most-important-batman-movie-in-the-characters-history-and-i-can-prove-it/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "When Christopher Priest Turned Down The Superman/Spider-Man Crossover",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/when-christopher-priest-turned-down-the-superman-spider-man-crossover/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T22:18:43.343895+00:00"
     },
     {
       "title": "2000 AD #2506",
@@ -8593,7 +8856,7 @@
       "issue": "#12",
       "publisher": "DARK HORSE COMICS",
       "release_date": "2026-11-11",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-qyscgfz7ys.jpg",
       "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#dark-horse-comics-american-caper-12-of-12-cover-a-tyler-boss",
       "watch_matches": [],
       "creator_matches": [],
@@ -11627,48 +11890,6 @@
       "found_at": "2026-11-09T09:24:19.134414+00:00"
     },
     {
-      "title": "Odin #5 (Of 9)(Cover A Alex Eckman Lawn)",
-      "issue": "#5",
-      "publisher": "IMAGE COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#image-comics-odin-5-of-9-cover-a-alex-eckman-lawn",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-09T09:24:19.134414+00:00"
-    },
-    {
-      "title": "Odin #5 (Of 9)(Cover B Letizia Cadonici & Alessandro Santoro)",
-      "issue": "#5",
-      "publisher": "IMAGE COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#image-comics-odin-5-of-9-cover-b-letizia-cadonici-alessandro-santoro",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-09T09:24:19.134414+00:00"
-    },
-    {
-      "title": "Odin #5 (Of 9)(Cover C Chloe Brailsford)",
-      "issue": "#5",
-      "publisher": "IMAGE COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#image-comics-odin-5-of-9-cover-c-chloe-brailsford",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-09T09:24:19.134414+00:00"
-    },
-    {
       "title": "On The Way Home After Defeating The Demon King Light Novel Volume 1 SC",
       "issue": "Volume 1",
       "publisher": "YEN ON",
@@ -12443,7 +12664,7 @@
       "issue": "#4",
       "publisher": "IDW PUBLISHING",
       "release_date": "2026-11-11",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-b3ovbdrhzk.jpg",
       "source_url": "https://comiclist.info/2026/11/04/chucks-comic-list-for-november.html#idw-publishing-star-trek-red-shirts-ghost-of-the-21st-century-4-cover-a-chris-shehan",
       "watch_matches": [],
       "creator_matches": [],
