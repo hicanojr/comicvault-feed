@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:07:05.733924+00:00",
+  "updated": "2026-11-09T03:23:16.043073+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -369,6 +369,31 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-08T19:07:05.726220+00:00"
+    },
+    {
+      "title": "Adam Warlock Has One of Marvel’s Most Complicated Origins, And This Fantastic Four Comic Is at the Center of It",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/adam-warlock-has-one-of-marvels-most-complicated-origins-and-this-fantastic-four-comic-is-at-the-center-of-it/",
+      "watch_matches": [
+        "Spider-Man",
+        "Amazing Fantasy"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "first appearance",
+        "#1",
+        "debut"
+      ],
+      "tags": [
+        "first appearance",
+        "new character",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
     },
     {
       "title": "A Projection #1 (One Shot)",
@@ -4758,6 +4783,42 @@
       "found_at": "2026-11-08T19:07:05.726220+00:00"
     },
     {
+      "title": "5 Iconic Marvel Monsters Who Deserve a Werewolf By Night-Styled Special",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/5-iconic-marvel-monsters-who-deserve-a-werewolf-by-night-styled-special/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "introducing"
+      ],
+      "tags": [
+        "first appearance",
+        "new character",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
+    },
+    {
+      "title": "Solo Leveling: Ragnarok Just Made the Original Ending Tragic & Fans May Have Missed It",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/anime/feature/solo-leveling-ragnarok-just-made-the-original-ending-tragic-fans-may-have-missed-it/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "returns"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
+    },
+    {
       "title": "Only I Know The World Is Ending And Getting Killed By Rampaging Beasts Only Makes Me Stronger Volume 7 GN",
       "issue": "Volume 7",
       "publisher": "SEVEN SEAS ENTERTAINMENT",
@@ -9050,6 +9111,86 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-08T19:06:30.011270+00:00"
+    },
+    {
+      "title": "Hugh Jackman’s Most Underrated Wolverine Movie Has Clawed Its Way to Streaming Success",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/hugh-jackmans-most-underrated-wolverine-movie-has-clawed-its-way-to-streaming-success/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
+    },
+    {
+      "title": "Spider-Man 2’s Forgotten Fight Would Have Changed Marvel Movie History Forever",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/spider-man-2s-forgotten-fight-would-have-changed-marvel-movie-history-forever/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
+    },
+    {
+      "title": "Spider-Verse 3 Update is Exactly What Fans Need to Hear & Teases “Greatest End to a Trilogy” Ever",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/spider-verse-3-update-is-exactly-what-fans-need-to-hear-teases-greatest-end-to-a-trilogy-ever/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
+    },
+    {
+      "title": "These 5 Great Marvel Romances Are Completely Unlikely (Including Spider-Man’s First Love)",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/these-5-great-marvel-romances-are-completely-unlikely-including-spider-mans-first-love/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
+    },
+    {
+      "title": "Wolverine Just Returned to One of His Most Controversial Forms Thanks to a Bottle of Wine",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/feature/wolverine-just-returned-to-one-of-his-most-controversial-forms-thanks-to-a-bottle-of-wine/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-09T03:23:16.020524+00:00"
     },
     {
       "title": "2000 AD #2505",
