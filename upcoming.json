@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:31:52.838850+00:00",
+  "updated": "2026-11-10T01:58:49.961584+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -4097,6 +4097,27 @@
       "found_at": "2026-11-09T22:18:43.343895+00:00"
     },
     {
+      "title": "DCU Report Confirms When Wonder Woman Will Debut & It Makes a Casting Rumor Even More Likely",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/dcu-report-confirms-when-wonder-woman-will-debut-it-makes-a-casting-rumor-even-more-likely/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "debut"
+      ],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-10T01:58:49.413811+00:00"
+    },
+    {
       "title": "Marvel Canceled This Modern Classic Before Its Biggest Twist and the Avengers May Finish the Story",
       "issue": "",
       "publisher": "",
@@ -4151,6 +4172,24 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-09T09:24:19.134414+00:00"
+    },
+    {
+      "title": "Late Night DC Comics Gossip: James Gunn, Jeremy Latcham And Jim Lee",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/late-night-dc-comics-gossip-james-gunn-jeremy-latcham-and-jim-lee/",
+      "watch_matches": [],
+      "creator_matches": [
+        "Jim Lee"
+      ],
+      "keyword_matches": [],
+      "tags": [
+        "special_creator"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-10T01:58:49.413811+00:00"
     },
     {
       "title": "Todd McFarlane Sells His Toys In The Daily LITG, 9th of November, 2026",
@@ -8579,6 +8618,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-09T22:18:43.343895+00:00"
+    },
+    {
+      "title": "Batman Is DC’s Toughest Vigilante But These 5 of His Most Dangerous Enemies Are Actually Weak (And One Used to Be His Greatest Ally)",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/batman-is-dcs-toughest-vigilante-but-these-5-of-his-most-dangerous-enemies-are-actually-weak-and-one-used-to-be-his-greatest-ally/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-10T01:58:49.413811+00:00"
     },
     {
       "title": "Batman Officially Says Goodbye To Alfred Pennyworth At The End Of An Era Together",
