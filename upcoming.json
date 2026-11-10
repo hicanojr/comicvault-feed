@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:35:48.875324+00:00",
+  "updated": "2026-11-10T12:01:56.340120+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -8489,6 +8489,22 @@
       "found_at": "2026-11-10T09:35:48.866663+00:00"
     },
     {
+      "title": "Star Wars Already Has the Perfect Story for Darth Vader’s Rumored Solo Movie",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/star-wars-already-has-the-perfect-story-for-darth-vaders-rumored-solo-movie/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-10T12:01:56.140087+00:00"
+    },
+    {
       "title": "Star Wars: The Book of Boba Fett #5 Preview: Saber Trouble",
       "issue": "#5",
       "publisher": "",
@@ -10595,7 +10611,7 @@
       "issue": "#8",
       "publisher": "DC COMICS",
       "release_date": "2026-11-11",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-3btlc6uuvg.jpg",
       "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dc-comics-fury-of-firestorm-8-of-15-cover-a-rafael-de-latorre",
       "watch_matches": [],
       "creator_matches": [],
