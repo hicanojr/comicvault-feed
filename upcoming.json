@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:46:04.565931+00:00",
+  "updated": "2026-11-12T14:13:31.939363+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -4177,6 +4177,25 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-12T03:46:03.933911+00:00"
+    },
+    {
+      "title": "Mister Hope Debuts Root Mandrake: Mud Monster Mayhem At Thought Bubble",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/mister-hope-debuts-root-mandrake-mud-monster-mayhem-at-thought-bubble/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-12T14:13:31.928014+00:00"
     },
     {
       "title": "This Dark Comic Book Movie Remake Couldn’t Compete With the Tragic 32-Year-Old Original – but Now It Is a Free to Stream Hit",
@@ -8660,6 +8679,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-11T19:13:46.009299+00:00"
+    },
+    {
+      "title": "Glen Powell's Best DC Role is Constantine, Not Batman",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/dcu-glen-powell-constantine-not-batman/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-12T14:13:31.928014+00:00"
     },
     {
       "title": "Spider-Man Has Become the Hero the Avengers Need, And the New Team Proves Why",
