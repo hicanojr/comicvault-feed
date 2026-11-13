@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T10:01:43.422324+00:00",
+  "updated": "2026-11-13T20:36:56.615602+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -556,76 +556,6 @@
       "found_at": "2026-11-13T10:01:43.322044+00:00"
     },
     {
-      "title": "Hillbilly The Treason Of Twelve-Toe Maggie #2 (Of 3)(Cover A Eric Powell)",
-      "issue": "#2",
-      "publisher": "DARK HORSE COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-7hfh2yjg1p.jpg",
-      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dark-horse-comics-hillbilly-the-treason-of-twelve-toe-maggie-2-of-3-cover-a-eric-powell",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "new arc",
-        "returns"
-      ],
-      "tags": [],
-      "priority": "HIGH",
-      "found_at": "2026-11-13T10:01:43.322044+00:00"
-    },
-    {
-      "title": "Hillbilly The Treason Of Twelve-Toe Maggie #2 (Of 3)(Cover B Dan Panosian)",
-      "issue": "#2",
-      "publisher": "DARK HORSE COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dark-horse-comics-hillbilly-the-treason-of-twelve-toe-maggie-2-of-3-cover-b-dan-panosian",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "new arc",
-        "returns"
-      ],
-      "tags": [],
-      "priority": "HIGH",
-      "found_at": "2026-11-13T10:01:43.322044+00:00"
-    },
-    {
-      "title": "Immortal Coil #1 (Of 5)(Cover A Gerald Von Stoddard)",
-      "issue": "#1",
-      "publisher": "THIRD CONTACT COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-9s82br0wnl.jpg",
-      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#third-contact-comics-immortal-coil-1-of-5-cover-a-gerald-von-stoddard",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "#1",
-        "returns"
-      ],
-      "tags": [],
-      "priority": "HIGH",
-      "found_at": "2026-11-13T10:01:43.322044+00:00"
-    },
-    {
-      "title": "Immortal Coil #1 (Of 5)(Cover B Gerald Von Stoddard Wraparound Variant)",
-      "issue": "#1",
-      "publisher": "THIRD CONTACT COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#third-contact-comics-immortal-coil-1-of-5-cover-b-gerald-von-stoddard-wraparound-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "#1",
-        "returns"
-      ],
-      "tags": [
-        "variant"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-13T10:01:43.322044+00:00"
-    },
-    {
       "title": "Josie And The Pussycats Rock On #1 (One Shot)(Cover A Dan Parent)",
       "issue": "#1",
       "publisher": "ARCHIE COMICS PUBLICATIONS",
@@ -1168,65 +1098,6 @@
       "found_at": "2026-11-13T10:01:43.322044+00:00"
     },
     {
-      "title": "Barbara Gordon Breakout #7 (Cover A Jorge Fornes)",
-      "issue": "#7",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-jwgbw9z8d6.jpg",
-      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dc-comics-barbara-gordon-breakout-7-cover-a-jorge-fornes",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "last issue"
-      ],
-      "tags": [
-        "death",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-13T10:01:43.322044+00:00"
-    },
-    {
-      "title": "Barbara Gordon Breakout #7 (Cover B Kyuyong Eom Card Stock Variant)",
-      "issue": "#7",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dc-comics-barbara-gordon-breakout-7-cover-b-kyuyong-eom-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "last issue"
-      ],
-      "tags": [
-        "death",
-        "variant",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-13T10:01:43.322044+00:00"
-    },
-    {
-      "title": "Barbara Gordon Breakout #7 (Cover C Nogi San Card Stock Variant)",
-      "issue": "#7",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-11",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dc-comics-barbara-gordon-breakout-7-cover-c-nogi-san-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "last issue"
-      ],
-      "tags": [
-        "death",
-        "variant",
-        "death_or_major_event"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-13T10:01:43.322044+00:00"
-    },
-    {
       "title": "Ben 10 #6 (Cover R Robert Carey Foil Full Art Variant)",
       "issue": "#6",
       "publisher": "DYNAMITE ENTERTAINMENT",
@@ -1490,6 +1361,40 @@
       ],
       "tags": [
         "special_creator"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-13T10:01:43.322044+00:00"
+    },
+    {
+      "title": "Immortal Coil #1 (Of 5)(Cover A Gerald Von Stoddard)",
+      "issue": "#1",
+      "publisher": "THIRD CONTACT COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-9s82br0wnl.jpg",
+      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#third-contact-comics-immortal-coil-1-of-5-cover-a-gerald-von-stoddard",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-13T10:01:43.322044+00:00"
+    },
+    {
+      "title": "Immortal Coil #1 (Of 5)(Cover B Gerald Von Stoddard Wraparound Variant)",
+      "issue": "#1",
+      "publisher": "THIRD CONTACT COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#third-contact-comics-immortal-coil-1-of-5-cover-b-gerald-von-stoddard-wraparound-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [
+        "variant"
       ],
       "priority": "HIGH",
       "found_at": "2026-11-13T10:01:43.322044+00:00"
@@ -4129,6 +4034,38 @@
       "release_date": "2026-11-11",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#image-comics-badrock-4-cover-c-seth-damoose-homage-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "variant"
+      ],
+      "priority": "watch",
+      "found_at": "2026-11-13T10:01:43.322044+00:00"
+    },
+    {
+      "title": "Barbara Gordon Breakout #7 (Cover B Kyuyong Eom Card Stock Variant)",
+      "issue": "#7",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dc-comics-barbara-gordon-breakout-7-cover-b-kyuyong-eom-card-stock-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "variant"
+      ],
+      "priority": "watch",
+      "found_at": "2026-11-13T10:01:43.322044+00:00"
+    },
+    {
+      "title": "Barbara Gordon Breakout #7 (Cover C Nogi San Card Stock Variant)",
+      "issue": "#7",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dc-comics-barbara-gordon-breakout-7-cover-c-nogi-san-card-stock-variant",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
@@ -9316,6 +9253,20 @@
       "found_at": "2026-11-13T10:01:43.322044+00:00"
     },
     {
+      "title": "Barbara Gordon Breakout #7 (Cover A Jorge Fornes)",
+      "issue": "#7",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-jwgbw9z8d6.jpg",
+      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dc-comics-barbara-gordon-breakout-7-cover-a-jorge-fornes",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-11-13T10:01:43.322044+00:00"
+    },
+    {
       "title": "Barbarian's Bride Volume 8 GN",
       "issue": "Volume 8",
       "publisher": "SEVEN SEAS ENTERTAINMENT",
@@ -10974,6 +10925,34 @@
       "release_date": "2026-11-11",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#yen-on-high-school-dxd-light-novel-volume-19-durandal-of-the-student-council-election-sc",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-11-13T10:01:43.322044+00:00"
+    },
+    {
+      "title": "Hillbilly The Treason Of Twelve-Toe Maggie #2 (Of 3)(Cover A Eric Powell)",
+      "issue": "#2",
+      "publisher": "DARK HORSE COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-7hfh2yjg1p.jpg",
+      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dark-horse-comics-hillbilly-the-treason-of-twelve-toe-maggie-2-of-3-cover-a-eric-powell",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-11-13T10:01:43.322044+00:00"
+    },
+    {
+      "title": "Hillbilly The Treason Of Twelve-Toe Maggie #2 (Of 3)(Cover B Dan Panosian)",
+      "issue": "#2",
+      "publisher": "DARK HORSE COMICS",
+      "release_date": "2026-11-11",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/09/chucks-comic-list-for-november.html#dark-horse-comics-hillbilly-the-treason-of-twelve-toe-maggie-2-of-3-cover-b-dan-panosian",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
