@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T04:10:00.487075+00:00",
+  "updated": "2026-11-14T23:22:10.009297+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -3890,6 +3890,23 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-14T04:10:00.007214+00:00"
+    },
+    {
+      "title": "Charlie Adlard Swaps Walking Dead For Talking Sheep In His New Comic",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/charlie-adlard-swaps-walking-dead-for-talking-sheep-in-his-new-comic/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
     },
     {
       "title": "Action Comics #1104 (Cover B Ryan Sook Card Stock Variant)",
@@ -8439,6 +8456,54 @@
       "found_at": "2026-11-14T02:37:15.741078+00:00"
     },
     {
+      "title": "Adam Driver’s Harsh Response to Disney After Killing the Kylo Ren Solo Movie: “Criminal”",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/adam-drivers-harsh-response-to-disney-after-killing-the-kylo-ren-solo-movie-criminal/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
+    },
+    {
+      "title": "Amazing Spider-Man #1003 Wins The Week's Top 11 Comics Bestseller List",
+      "issue": "#1003",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/amazing-spider-man-1003-wins-the-weeks-top-11-comics-bestseller-list/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
+    },
+    {
+      "title": "Batwoman #9 Preview: Batman Wants Answers About a Viral Gunfight",
+      "issue": "#9",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/batwoman-9-preview-batman-wants-answers-about-a-viral-gunfight/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
+    },
+    {
       "title": "Cosmic Lighthouse Announces Court Of Lore At Thought Bubble",
       "issue": "",
       "publisher": "",
@@ -8469,6 +8534,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-14T02:37:15.741823+00:00"
+    },
+    {
+      "title": "Han Shot First, But This Signed Star Wars Collectible Lets Greedo Have the Last Word",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/han-shot-first-but-this-signed-star-wars-collectible-lets-greedo-have-the-last-word/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
     },
     {
       "title": "I’m Worried This DC Superhero Will Never Get the Movie He Deserves After James Gunn’s Exit",
@@ -8503,6 +8584,70 @@
       "found_at": "2026-11-14T04:10:00.007214+00:00"
     },
     {
+      "title": "Mark Hamill Quietly Delivered Two of the Best Stephen King Performances, And They Couldn’t Be More Different",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/mark-hamill-quietly-delivered-two-of-the-best-stephen-king-performances-and-they-couldnt-be-more-different/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
+    },
+    {
+      "title": "PrintWatch: Absolute Batman, Last Driver, Mark Spears & My Little Pony",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/printwatch-absolute-batman-last-driver-mark-spears-my-little-pony/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
+    },
+    {
+      "title": "The Best Absolute Book Isn’t Absolute Batman or Absolute Wonder Woman (and You’re Almost Certainly Not Reading It)",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/dc/feature/the-best-absolute-book-isnt-absolute-batman-or-absolute-wonder-woman-and-youre-almost-certainly-not-reading-it/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
+    },
+    {
+      "title": "The Greatest Sci-Fi Movie Franchise of All Time Is Clear, Even If Rotten Tomatoes Tells Another Story",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/the-greatest-sci-fi-movie-franchise-of-all-time-is-clear-even-if-rotten-tomatoes-tells-another-story/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
+    },
+    {
       "title": "This Unreleased Star Wars Jabba the Hutt Set Includes Something Fans Never Got in the Final Version",
       "issue": "",
       "publisher": "",
@@ -8517,6 +8662,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-14T02:37:15.742668+00:00"
+    },
+    {
+      "title": "This Vintage Boba Fett Includes the Letter That Helped Create One of Star Wars Collecting’s Biggest Obsessions",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/this-vintage-boba-fett-includes-the-letter-that-helped-create-one-of-star-wars-collectings-biggest-obsessions/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-14T23:22:10.000610+00:00"
     },
     {
       "title": "2000 AD #2506",
