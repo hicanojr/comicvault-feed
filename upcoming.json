@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:39:22.944266+00:00",
+  "updated": "2026-11-15T04:31:20.695067+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -8451,6 +8451,39 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-15T02:39:03.033853+00:00"
+    },
+    {
+      "title": "DC’s Young Adult Comics Deserve More Attention, and Its Latest Birds of Prey Graphic Novel Proves Why",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/feature/dcs-young-adult-comics-deserve-more-attention-and-its-latest-birds-of-prey-graphic-novel-proves-why/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "one-shot",
+        "one_shot"
+      ],
+      "priority": "watch",
+      "found_at": "2026-11-15T04:31:20.635806+00:00"
+    },
+    {
+      "title": "Star Wars: Starfighter Could Finally Fix the Biggest Franchise Problem With the Sequel Trilogy",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/star-wars-starfighter-could-finally-fix-the-biggest-franchise-problem-with-the-sequel-trilogy/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-15T04:31:20.635806+00:00"
     },
     {
       "title": "The VisionQuest Finale Continued a Marvel Trend With Its Big Showdown, and Addressed a Fan Complaint",
