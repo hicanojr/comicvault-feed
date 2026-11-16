@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T00:51:51.279831+00:00",
+  "updated": "2026-11-16T02:50:17.824421+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -1096,6 +1096,27 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-16T00:51:51.272260+00:00"
+    },
+    {
+      "title": "Just 50 Copies of Vampirella’s Debut Comic Exist in This Grade or Better, Making This Auction a Rare Opportunity",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/just-50-copies-of-vampirellas-debut-comic-exist-in-this-grade-or-better-making-this-auction-a-rare-opportunity/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "first appearance",
+        "debut"
+      ],
+      "tags": [
+        "first appearance",
+        "new character",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-16T02:50:17.789017+00:00"
     },
     {
       "title": "Ben 10 #6 (Cover R Robert Carey Foil Full Art Variant)",
@@ -3793,6 +3814,24 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-16T00:51:51.272260+00:00"
+    },
+    {
+      "title": "10 Open World Games Everyone Needs to Play Once in Their Lives (#1 Is the Best Ever)",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/must-play-open-world-games-best-all-time-list/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-16T02:50:17.789017+00:00"
     },
     {
       "title": "Only I Know The World Is Ending And Getting Killed By Rampaging Beasts Only Makes Me Stronger Volume 7 GN",
@@ -8501,6 +8540,22 @@
       "found_at": "2026-11-16T00:50:54.966694+00:00"
     },
     {
+      "title": "DC’s Trinity Wouldn’t Be Complete Without Wonder Woman, and These 5 Writers Helped Make It Happen",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/dcs-trinity-wouldnt-be-complete-without-wonder-woman-and-these-5-writers-helped-make-it-happen/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-16T02:50:17.789017+00:00"
+    },
+    {
       "title": "Midnight Spider-Man #2 Preview: Where Is Peter Parker?",
       "issue": "#2",
       "publisher": "",
@@ -8515,6 +8570,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-16T00:50:55.329266+00:00"
+    },
+    {
+      "title": "Spider-Man’s Biggest Mistake Has Come Back to Haunt Him & It Could Kill the Most Important Person in His Life",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/feature/spider-mans-biggest-mistake-has-come-back-to-haunt-him-it-could-kill-the-most-important-person-in-his-life/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-16T02:50:17.789017+00:00"
     },
     {
       "title": "2000 AD #2506",
