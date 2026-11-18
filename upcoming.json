@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:25:58.309680+00:00",
+  "updated": "2026-11-18T20:39:31.080208+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -2277,6 +2277,103 @@
       ],
       "tags": [
         "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T18:25:58.284333+00:00"
+    },
+    {
+      "title": "DNX #5 (Of 5)(Cover A Kaare Andrews)",
+      "issue": "#5",
+      "publisher": "MARVEL COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-bphe6wmf0t.jpg",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-a-kaare-andrews",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T18:25:58.284333+00:00"
+    },
+    {
+      "title": "DNX #5 (Of 5)(Cover B Skottie Young DNX Collection Variant I)",
+      "issue": "#5",
+      "publisher": "MARVEL COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-b-skottie-young-dnx-collection-variant-i",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "variant",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T18:25:58.284333+00:00"
+    },
+    {
+      "title": "DNX #5 (Of 5)(Cover C Federico Vicentini 5-Part Connecting Variant)",
+      "issue": "#5",
+      "publisher": "MARVEL COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-c-federico-vicentini-5-part-connecting-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "variant",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T18:25:58.284333+00:00"
+    },
+    {
+      "title": "DNX #5 (Of 5)(Cover D Giuseppe Camuncoli)",
+      "issue": "#5",
+      "publisher": "MARVEL COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-d-giuseppe-camuncoli",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T18:25:58.284333+00:00"
+    },
+    {
+      "title": "DNX #5 (Of 5)(Cover E Skan)",
+      "issue": "#5",
+      "publisher": "MARVEL COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-e-skan",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
       ],
       "priority": "HIGH",
       "found_at": "2026-11-18T18:25:58.284333+00:00"
@@ -5001,38 +5098,6 @@
       "tags": [
         "one-shot",
         "one_shot"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-18T18:25:58.284333+00:00"
-    },
-    {
-      "title": "DNX #5 (Of 5)(Cover B Skottie Young DNX Collection Variant I)",
-      "issue": "#5",
-      "publisher": "MARVEL COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-b-skottie-young-dnx-collection-variant-i",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-18T18:25:58.284333+00:00"
-    },
-    {
-      "title": "DNX #5 (Of 5)(Cover C Federico Vicentini 5-Part Connecting Variant)",
-      "issue": "#5",
-      "publisher": "MARVEL COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-c-federico-vicentini-5-part-connecting-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
       ],
       "priority": "watch",
       "found_at": "2026-11-18T18:25:58.284333+00:00"
@@ -9772,6 +9837,22 @@
       "found_at": "2026-11-18T18:25:58.284333+00:00"
     },
     {
+      "title": "Obi-Wan Kenobi Simps Would Have Loved To Own This Piece Of Ewan McGregor’s Star Wars History",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/obi-wan-kenobi-simps-would-have-loved-to-own-this-piece-of-ewan-mcgregors-star-wars-history/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-18T20:39:30.943507+00:00"
+    },
+    {
       "title": "Scott Snyder Confirms Massive Batman Story Arc for 2027 with 3 Wild Words",
       "issue": "",
       "publisher": "",
@@ -9818,6 +9899,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-18T18:25:58.284333+00:00"
+    },
+    {
+      "title": "Warner Bros.' New DCU Needs a Superman/Batman: Public Enemies Movie",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/warner-bros-new-dcu-superman-batman-public-enemies-adaptation/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-18T20:39:30.943507+00:00"
     },
     {
       "title": "100 Bullets The US Of Anger #5 (Of 8)(Cover A Dave Johnson)",
@@ -10758,48 +10855,6 @@
       "found_at": "2026-11-18T18:25:58.284333+00:00"
     },
     {
-      "title": "DNX #5 (Of 5)(Cover A Kaare Andrews)",
-      "issue": "#5",
-      "publisher": "MARVEL COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-a-kaare-andrews",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-18T18:25:58.284333+00:00"
-    },
-    {
-      "title": "DNX #5 (Of 5)(Cover D Giuseppe Camuncoli)",
-      "issue": "#5",
-      "publisher": "MARVEL COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-d-giuseppe-camuncoli",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-18T18:25:58.284333+00:00"
-    },
-    {
-      "title": "DNX #5 (Of 5)(Cover E Skan)",
-      "issue": "#5",
-      "publisher": "MARVEL COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#marvel-comics-dnx-5-of-5-cover-e-skan",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-18T18:25:58.284333+00:00"
-    },
-    {
       "title": "Do What You're Gonna Do The Definitive Oral History Of Breaking Bad HC",
       "issue": "",
       "publisher": "WILLIAM MORROW",
@@ -11028,7 +11083,7 @@
       "issue": "#10",
       "publisher": "DC COMICS/VERTIGO",
       "release_date": "2026-11-18",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-y9zpghnovc.jpg",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-vertigo-end-of-life-10-cover-a-gerald-parel",
       "watch_matches": [],
       "creator_matches": [],
@@ -12582,7 +12637,7 @@
       "issue": "#144",
       "publisher": "DC COMICS",
       "release_date": "2026-11-18",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-qbvg9a4upt.jpg",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-nightwing-144-cover-a-jorge-fornes",
       "watch_matches": [],
       "creator_matches": [],
