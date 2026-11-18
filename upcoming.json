@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:17:07.653393+00:00",
+  "updated": "2026-11-18T03:24:55.741610+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -1916,6 +1916,71 @@
       "found_at": "2026-11-17T19:17:07.636284+00:00"
     },
     {
+      "title": "Batman/Superman World's Finest #57 (Cover A Dan Mora)",
+      "issue": "#57",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-qkqxcg66vz.jpg",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batman-superman-worlds-finest-57-cover-a-dan-mora",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-17T19:17:07.636284+00:00"
+    },
+    {
+      "title": "Batman/Superman World's Finest #57 (Cover B Mario Fox Foccillo Card Stock Variant)",
+      "issue": "#57",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batman-superman-worlds-finest-57-cover-b-mario-fox-foccillo-card-stock-variant",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "variant",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-17T19:17:07.636284+00:00"
+    },
+    {
+      "title": "Batman/Superman World's Finest #57 (Cover C Adrian Gutierrez Card Stock Variant)",
+      "issue": "#57",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batman-superman-worlds-finest-57-cover-c-adrian-gutierrez-card-stock-variant",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "variant",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-17T19:17:07.636284+00:00"
+    },
+    {
       "title": "Canto The Clockwork Chronicles #1 (Cover A Drew Zucker)",
       "issue": "#1",
       "publisher": "DARK HORSE COMICS",
@@ -2114,6 +2179,84 @@
       "tags": [
         "death",
         "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-17T19:17:07.636284+00:00"
+    },
+    {
+      "title": "Detective Comics #1115 (Cover A Mikel Janin)",
+      "issue": "#1115",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-fuyjmzmd14.jpg",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-a-mikel-janin",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-17T19:17:07.636284+00:00"
+    },
+    {
+      "title": "Detective Comics #1115 (Cover B JG Jones Card Stock Variant)",
+      "issue": "#1115",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-b-jg-jones-card-stock-variant",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new arc"
+      ],
+      "tags": [
+        "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-17T19:17:07.636284+00:00"
+    },
+    {
+      "title": "Detective Comics #1115 (Cover C Claudio Castellini Card Stock Variant)",
+      "issue": "#1115",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-c-claudio-castellini-card-stock-variant",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new arc"
+      ],
+      "tags": [
+        "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-17T19:17:07.636284+00:00"
+    },
+    {
+      "title": "Detective Comics #1115 (Cover D Dan Mora Watchmen 40th Anniversary Card Stock Variant)",
+      "issue": "#1115",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-d-dan-mora-watchmen-40th-anniversary-card-stock-variant",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new arc"
+      ],
+      "tags": [
+        "variant"
       ],
       "priority": "HIGH",
       "found_at": "2026-11-17T19:17:07.636284+00:00"
@@ -4221,6 +4364,74 @@
       "found_at": "2026-11-17T19:17:07.636284+00:00"
     },
     {
+      "title": "5 Great Iron Man Armors That Nobody Talks About",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/5-great-iron-man-armors-that-nobody-talks-about/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "debut"
+      ],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
+      "title": "New Doomsday Footage Has Turned the Best MCU Movie into a #1 Streaming Hit Again",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/new-doomsday-footage-has-turned-the-best-mcu-movie-into-a-1-streaming-hit-again/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
+      "title": "Vampirella: Paradise #1 Preview: Heaven Can't Wait to Bite Back",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/vampirella-paradise-1-preview-heaven-cant-wait-to-bite-back/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
+      "title": "5 Marvel Mutants Who Should Lead X-Force in the MCU, And One Has Never Been in Live Action",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/5-marvel-mutants-who-should-lead-x-force-in-the-mcu-and-one-has-never-been-in-live-action/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
       "title": "5 Underseen Patrick Stewart Performances That Prove He Was One of the Best Actors Ever",
       "issue": "",
       "publisher": "",
@@ -4235,6 +4446,42 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-17T19:16:36.754602+00:00"
+    },
+    {
+      "title": "Morsaa Vampire Lore With Scott & Jean In Midnight X-Men #2 (Spoilers)",
+      "issue": "#2",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/morsaa-vampire-lore-with-scott-jean-in-midnight-x-men-2-spoilers/",
+      "watch_matches": [],
+      "creator_matches": [
+        "Jonathan Hickman"
+      ],
+      "keyword_matches": [],
+      "tags": [
+        "special_creator"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
+      "title": "SCOOP: Matthew Rosenberg Officially Off Todd McFarlane's Spawn Already",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/scoop-matthew-rosenberg-officially-off-todd-mcfarlanes-spawn-already/",
+      "watch_matches": [],
+      "creator_matches": [
+        "Todd McFarlane"
+      ],
+      "keyword_matches": [],
+      "tags": [
+        "special_creator"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
     },
     {
       "title": "The Hunger Games: Sunrise on the Reaping Is a Beautiful Adaptation, But Doesn’t Quite Achieve Its Potential [REVIEW]",
@@ -4404,58 +4651,6 @@
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dynamite-entertainment-archie-vs-the-terminator-2-of-4-cover-l-francesco-francavilla-line-art-full-art-variant",
       "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-17T19:17:07.636284+00:00"
-    },
-    {
-      "title": "Batman/Superman World's Finest #57 (Cover A Dan Mora)",
-      "issue": "#57",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batman-superman-worlds-finest-57-cover-a-dan-mora",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-11-17T19:17:07.636284+00:00"
-    },
-    {
-      "title": "Batman/Superman World's Finest #57 (Cover B Mario Fox Foccillo Card Stock Variant)",
-      "issue": "#57",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batman-superman-worlds-finest-57-cover-b-mario-fox-foccillo-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-17T19:17:07.636284+00:00"
-    },
-    {
-      "title": "Batman/Superman World's Finest #57 (Cover C Adrian Gutierrez Card Stock Variant)",
-      "issue": "#57",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batman-superman-worlds-finest-57-cover-c-adrian-gutierrez-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -4679,54 +4874,6 @@
       "release_date": "2026-11-18",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-deathstroke-the-terminator-9-cover-c-juan-ferreyra-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-17T19:17:07.636284+00:00"
-    },
-    {
-      "title": "Detective Comics #1115 (Cover B JG Jones Card Stock Variant)",
-      "issue": "#1115",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-b-jg-jones-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-17T19:17:07.636284+00:00"
-    },
-    {
-      "title": "Detective Comics #1115 (Cover C Claudio Castellini Card Stock Variant)",
-      "issue": "#1115",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-c-claudio-castellini-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-17T19:17:07.636284+00:00"
-    },
-    {
-      "title": "Detective Comics #1115 (Cover D Dan Mora Watchmen 40th Anniversary Card Stock Variant)",
-      "issue": "#1115",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-d-dan-mora-watchmen-40th-anniversary-card-stock-variant",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
@@ -9584,6 +9731,38 @@
       "found_at": "2026-11-17T19:16:37.034498+00:00"
     },
     {
+      "title": "Christopher Nolan’s Underrated 2020 Spy-Thriller Is Perfect Proof of Why Robert Pattinson Will Be A Great James Bond",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/christopher-nolans-underrated-2020-spy-thriller-is-perfect-proof-of-why-robert-pattinson-will-be-a-great-james-bond/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
+      "title": "How Do Fans Feel About Robert Pattinson As James Bond 007? New Comicbook Poll Has a Clear Answer",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/news/how-do-fans-feel-about-robert-pattinson-as-james-bond-007-new-comicbook-poll-has-a-clear-answer/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
       "title": "Legendary Spider-Man Stories Have Been Chosen to Launch a Brand New Marvel Book Series",
       "issue": "",
       "publisher": "",
@@ -9614,6 +9793,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-17T19:16:36.565128+00:00"
+    },
+    {
+      "title": "Making Monsters Out Of Midnight Spider-Man #2 (Spoilers)",
+      "issue": "#2",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/making-monsters-out-of-midnight-spider-man-2-spoilers/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
     },
     {
       "title": "Nightwing Is a DC Icon but He’s Overrated for These 5 Reasons",
@@ -9680,6 +9875,22 @@
       "found_at": "2026-11-17T19:16:36.751202+00:00"
     },
     {
+      "title": "The 9/11 Issue of The Amazing Spider-Man Is One of Marvel’s Weirdest Moments (Especially What It Meant for the MCU’s Next Big Villain)",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/feature/the-9-11-issue-of-the-amazing-spider-man-is-one-of-marvels-weirdest-moments-especially-what-it-meant-for-the-mcus-next-big-villain/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
+    },
+    {
       "title": "The Game Awards 2026 Full Nominees Announced",
       "issue": "",
       "publisher": "",
@@ -9694,6 +9905,22 @@
       ],
       "priority": "watch",
       "found_at": "2026-11-17T19:16:36.753100+00:00"
+    },
+    {
+      "title": "The Most Controversial Star Wars Character Has an Original Collectible That Fans Won’t Want to Miss",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/the-most-controversial-star-wars-character-has-an-original-collectible-that-fans-wont-want-to-miss/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-18T03:24:55.530325+00:00"
     },
     {
       "title": "Unpublished Spider-Man Graphic Novel By Bob Layton, Paul Smith And BWS",
@@ -10512,20 +10739,6 @@
       "found_at": "2026-11-17T19:17:07.636284+00:00"
     },
     {
-      "title": "Detective Comics #1115 (Cover A Mikel Janin)",
-      "issue": "#1115",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-detective-comics-1115-cover-a-mikel-janin",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-17T19:17:07.636284+00:00"
-    },
-    {
       "title": "Detective Comics #168 Facsimile Edition (Cover A Lew Sayre Schwartz)",
       "issue": "#168",
       "publisher": "DC COMICS",
@@ -10978,7 +11191,7 @@
       "issue": "#6",
       "publisher": "IMAGE COMICS",
       "release_date": "2026-11-18",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-6j4fnvh9cd.jpg",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#image-comics-eye-collector-6-cover-a-gmb-chomichuk",
       "watch_matches": [],
       "creator_matches": [],
@@ -13540,7 +13753,7 @@
       "issue": "#19",
       "publisher": "DC COMICS",
       "release_date": "2026-11-18",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-8m48ego4jx.jpg",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-superman-unlimited-19-cover-a-lucas-meyer",
       "watch_matches": [],
       "creator_matches": [],
