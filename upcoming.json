@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:42:21.206630+00:00",
+  "updated": "2026-11-21T18:15:52.289632+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -4222,6 +4222,25 @@
       "found_at": "2026-11-21T16:42:21.197755+00:00"
     },
     {
+      "title": "5 Deadly Demons From Hell Who Could Become a Threat to Doctor Doom’s Throne",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/5-deadly-demons-from-hell-who-could-become-a-threat-to-doctor-dooms-throne/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "death"
+      ],
+      "tags": [
+        "death",
+        "death_or_major_event"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T18:15:50.914695+00:00"
+    },
+    {
       "title": "Batman #1 Is One of the Most Iconic Comic Books Ever Published, But Its Cover Left Out Two Legendary Debuts",
       "issue": "#1",
       "publisher": "",
@@ -4241,6 +4260,41 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-21T16:42:21.197755+00:00"
+    },
+    {
+      "title": "First Look At Garth Ennis & John McCrea's Hitman: It Was The Nineties",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/first-look-at-garth-ennis-john-mccreas-hitman-it-was-the-nineties/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot"
+      ],
+      "tags": [
+        "one-shot",
+        "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T18:15:50.914695+00:00"
+    },
+    {
+      "title": "Jean Grey #1 Preview: Phoenix Takes the Express Route Home",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/jean-grey-1-preview-phoenix-takes-the-express-route-home/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T18:15:50.914695+00:00"
     },
     {
       "title": "Who Killed Tank Girl Hardcover Slipcase Set (Cover A Greg Staples Mass Market Variant)",
@@ -9646,6 +9700,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-21T13:41:19.979726+00:00"
+    },
+    {
+      "title": "Guillermo del Toro Gives Definitive Answer on His Star Wars and Marvel Future",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/guillermo-del-toro-star-wars-marvel-future/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-21T18:15:50.914695+00:00"
     },
     {
       "title": "Legendary Star Wars Author Officially Returns For 2027 Princess Leia Sequel",
