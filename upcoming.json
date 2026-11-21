@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:41:44.154332+00:00",
+  "updated": "2026-11-21T16:42:21.206630+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -4204,6 +4204,43 @@
       "tags": [],
       "priority": "HIGH",
       "found_at": "2026-11-21T13:41:44.060359+00:00"
+    },
+    {
+      "title": "5 DC Superheroes Who Had Their Origin Stories Drastically Changed",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/5-dc-superheroes-who-had-their-origin-stories-drastically-changed/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "origin"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T16:42:21.197755+00:00"
+    },
+    {
+      "title": "Batman #1 Is One of the Most Iconic Comic Books Ever Published, But Its Cover Left Out Two Legendary Debuts",
+      "issue": "#1",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/batman-1-is-one-of-the-most-iconic-comic-books-ever-published-but-its-cover-left-out-two-legendary-debuts/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [
+        "first appearance",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T16:42:21.197755+00:00"
     },
     {
       "title": "Who Killed Tank Girl Hardcover Slipcase Set (Cover A Greg Staples Mass Market Variant)",
@@ -9579,6 +9616,22 @@
       "found_at": "2026-11-21T13:41:44.060359+00:00"
     },
     {
+      "title": "3 Superhero Trilogies Better Than Christopher Nolan's Batman",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/perfect-superhero-trilogies-better-than-christopher-nolan-batman-list/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-21T16:42:21.197755+00:00"
+    },
+    {
       "title": "5 Tom Holland Performances That Don’t Get Enough Love (Including A Huge Box Office Bomb)",
       "issue": "",
       "publisher": "",
@@ -9593,6 +9646,22 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-21T13:41:19.979726+00:00"
+    },
+    {
+      "title": "Legendary Star Wars Author Officially Returns For 2027 Princess Leia Sequel",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/star-wars-princess-leia-2027-book-announcement/",
+      "watch_matches": [
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-21T16:42:21.197755+00:00"
     },
     {
       "title": "100 Bullets The US Of Anger #5 (Of 8)(Cover A Dave Johnson)",
