@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T03:54:19.695872+00:00",
+  "updated": "2026-11-22T13:31:38.382930+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -44,6 +44,27 @@
         "one-shot",
         "variant",
         "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Final Boss #1 Black White And Blood Reprint (Cover E Tyler Kirkham Full Art Foil Variant)",
+      "issue": "#1",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-e-tyler-kirkham-full-art-foil-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1",
+        "returns",
+        "foil variant",
+        "foil"
+      ],
+      "tags": [
+        "variant"
       ],
       "priority": "HIGH",
       "found_at": "2026-11-21T21:19:33.803762+00:00"
@@ -173,16 +194,16 @@
       "found_at": "2026-11-21T21:19:33.803762+00:00"
     },
     {
-      "title": "Final Boss #1 Black White And Blood Reprint (Cover E Tyler Kirkham Full Art Foil Variant)",
-      "issue": "#1",
-      "publisher": "IMAGE COMICS",
+      "title": "Conan The Barbarian #37 (Cover H Roberto De La Torre Foil Variant)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
       "release_date": "2026-11-25",
       "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-e-tyler-kirkham-full-art-foil-variant",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-h-roberto-de-la-torre-foil-variant",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [
-        "#1",
+        "new story arc",
         "foil variant",
         "foil"
       ],
@@ -851,25 +872,6 @@
       "found_at": "2026-11-21T21:19:33.803762+00:00"
     },
     {
-      "title": "Conan The Barbarian #37 (Cover H Roberto De La Torre Foil Variant)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-h-roberto-de-la-torre-foil-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "foil variant",
-        "foil"
-      ],
-      "tags": [
-        "variant"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
       "title": "Darkstalkers x Street Fighter Hell On Earth #1 (One Shot)(Cover A Alberto Alburquerque)",
       "issue": "#1",
       "publisher": "UDON ENTERTAINMENT",
@@ -1168,6 +1170,80 @@
         "one-shot",
         "variant",
         "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Final Boss #1 Black White And Blood Reprint (Cover A Tyler Kirkham)",
+      "issue": "#1",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-ua6x14m11w.jpg",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-a-tyler-kirkham",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1",
+        "returns"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Final Boss #1 Black White And Blood Reprint (Cover B Tyler Kirkham Snarl Variant)",
+      "issue": "#1",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-b-tyler-kirkham-snarl-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1",
+        "returns"
+      ],
+      "tags": [
+        "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Final Boss #1 Black White And Blood Reprint (Cover C Tyler Kirkham Graffiti Variant)",
+      "issue": "#1",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-c-tyler-kirkham-graffiti-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1",
+        "returns"
+      ],
+      "tags": [
+        "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Final Boss #1 Black White And Blood Reprint (Cover D Tyler Kirkham Snarl Full Art Variant)",
+      "issue": "#1",
+      "publisher": "IMAGE COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-d-tyler-kirkham-snarl-full-art-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1",
+        "returns"
+      ],
+      "tags": [
+        "variant"
       ],
       "priority": "HIGH",
       "found_at": "2026-11-21T21:19:33.803762+00:00"
@@ -3227,6 +3303,122 @@
       "found_at": "2026-11-21T21:19:33.803762+00:00"
     },
     {
+      "title": "Conan The Barbarian #37 (Cover A Roberto De La Torre)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-xs8whiehpy.jpg",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-a-roberto-de-la-torre",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Conan The Barbarian #37 (Cover B Fernando Dagnino)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-b-fernando-dagnino",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Conan The Barbarian #37 (Cover C Ivan Gil)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-c-ivan-gil",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Conan The Barbarian #37 (Cover D Human Kutub)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-d-human-kutub",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Conan The Barbarian #37 (Cover E Carlos Magna)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-e-carlos-magna",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Conan The Barbarian #37 (Cover F Roberto De La Torre Full Art Card Stock Variant)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-f-roberto-de-la-torre-full-art-card-stock-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [
+        "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Conan The Barbarian #37 (Cover G Ivan Gil Full Art Card Stock Variant)",
+      "issue": "#37",
+      "publisher": "TITAN COMICS",
+      "release_date": "2026-11-25",
+      "cover_url": "",
+      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-g-ivan-gil-full-art-card-stock-variant",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "new story arc"
+      ],
+      "tags": [
+        "variant"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
       "title": "Crimes Against Nature #3 (Cover C Death By Toys)",
       "issue": "#3",
       "publisher": "IMAGE COMICS",
@@ -3372,76 +3564,6 @@
       "release_date": "2026-11-25",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#antarctic-press-fang-hunters-1-cover-b-terrence-burks-over-the-teeth-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "#1"
-      ],
-      "tags": [
-        "variant"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Final Boss #1 Black White And Blood Reprint (Cover A Tyler Kirkham)",
-      "issue": "#1",
-      "publisher": "IMAGE COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-a-tyler-kirkham",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "#1"
-      ],
-      "tags": [],
-      "priority": "HIGH",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Final Boss #1 Black White And Blood Reprint (Cover B Tyler Kirkham Snarl Variant)",
-      "issue": "#1",
-      "publisher": "IMAGE COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-b-tyler-kirkham-snarl-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "#1"
-      ],
-      "tags": [
-        "variant"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Final Boss #1 Black White And Blood Reprint (Cover C Tyler Kirkham Graffiti Variant)",
-      "issue": "#1",
-      "publisher": "IMAGE COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-c-tyler-kirkham-graffiti-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [
-        "#1"
-      ],
-      "tags": [
-        "variant"
-      ],
-      "priority": "HIGH",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Final Boss #1 Black White And Blood Reprint (Cover D Tyler Kirkham Snarl Full Art Variant)",
-      "issue": "#1",
-      "publisher": "IMAGE COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-final-boss-1-black-white-and-blood-reprint-cover-d-tyler-kirkham-snarl-full-art-variant",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [
@@ -4244,6 +4366,25 @@
       "found_at": "2026-11-22T03:54:19.667234+00:00"
     },
     {
+      "title": "Tom Cruise Starred in a Sequel He Was Completely Miscast for 10 Years Ago, But He Somehow Made It Work",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/tom-cruise-starred-in-a-sequel-he-was-completely-miscast-for-10-years-ago-but-he-somehow-made-it-work/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "one-shot"
+      ],
+      "tags": [
+        "one-shot",
+        "one_shot"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-22T13:31:38.369770+00:00"
+    },
+    {
       "title": "Who Killed Tank Girl Hardcover Slipcase Set (Cover A Greg Staples Mass Market Variant)",
       "issue": "",
       "publisher": "TITAN COMICS",
@@ -4310,6 +4451,24 @@
       ],
       "priority": "HIGH",
       "found_at": "2026-11-21T21:14:54.262421+00:00"
+    },
+    {
+      "title": "Jonathan Hickman's Ambitious Sci-Fi Space Opera Getting A New Collection",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/jonathan-hickman-academy-institute-sci-fi-space-opera-gets-new-collection/",
+      "watch_matches": [],
+      "creator_matches": [
+        "Jonathan Hickman"
+      ],
+      "keyword_matches": [],
+      "tags": [
+        "special_creator"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-22T13:31:38.369770+00:00"
     },
     {
       "title": "Judge Dredd Confirmed to Return In New Sci-Fi Crossover With a Bizarre Partner",
@@ -4558,31 +4717,13 @@
       "found_at": "2026-11-21T21:19:33.803762+00:00"
     },
     {
-      "title": "Batwoman #9 (Cover A DaNi)",
-      "issue": "#9",
-      "publisher": "DC COMICS",
-      "release_date": "2026-11-18",
-      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-8q7j97y11b.jpg",
-      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batwoman-9-cover-a-dani",
-      "watch_matches": [
-        "Batman"
-      ],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "watch",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
       "title": "Batwoman #9 (Cover B Stjepan Sejic Card Stock Variant)",
       "issue": "#9",
       "publisher": "DC COMICS",
       "release_date": "2026-11-18",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batwoman-9-cover-b-stjepan-sejic-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -4598,9 +4739,7 @@
       "release_date": "2026-11-18",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batwoman-9-cover-c-yasmine-putri-card-stock-variant",
-      "watch_matches": [
-        "Batman"
-      ],
+      "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
       "tags": [
@@ -7131,38 +7270,6 @@
       "found_at": "2026-11-21T21:19:33.803762+00:00"
     },
     {
-      "title": "Conan The Barbarian #37 (Cover F Roberto De La Torre Full Art Card Stock Variant)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-f-roberto-de-la-torre-full-art-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Conan The Barbarian #37 (Cover G Ivan Gil Full Art Card Stock Variant)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-g-ivan-gil-full-art-card-stock-variant",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [
-        "variant"
-      ],
-      "priority": "watch",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
       "title": "Cruel Kingdom 2 #3 (EC Comics)(Cover C Shawn McManus EC Homage Variant)",
       "issue": "#3",
       "publisher": "ONI PRESS",
@@ -9667,6 +9774,22 @@
       "found_at": "2026-11-21T21:19:33.803762+00:00"
     },
     {
+      "title": "10 Spider-Man Storylines Marvel Should Use When It's Time to Replace Tom Holland",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://www.cbr.com/spiderman-comics-tom-holland-mcu-replacement-inspiration-list/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-22T13:31:38.369770+00:00"
+    },
+    {
       "title": "5 Novelizations That Made Classic Comic Stories Even Better",
       "issue": "",
       "publisher": "",
@@ -9681,6 +9804,38 @@
       ],
       "priority": "watch",
       "found_at": "2026-11-21T21:14:54.258932+00:00"
+    },
+    {
+      "title": "Amazing Spider-Man #1003 Leads Top 400 Comics In Comic Shops Last Week",
+      "issue": "#1003",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/amazing-spider-man-1003-leads-top-400-comics-in-comic-shops-last-week/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-22T13:31:38.369770+00:00"
+    },
+    {
+      "title": "Amazing Spider-Man #1004 Preview: Itsy Bitsy Targets Jameson",
+      "issue": "#1004",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/amazing-spider-man-1004-preview-itsy-bitsy-targets-jameson/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-22T13:31:38.369770+00:00"
     },
     {
       "title": "Batman 2026 Annual #1 Preview: The Minotaur's Maze Has a Center",
@@ -9731,6 +9886,22 @@
       "found_at": "2026-11-21T21:14:54.248538+00:00"
     },
     {
+      "title": "No Matter What Happens Next With Batman, This Reeves-verse Cliffhanger Needs to Be Resolved",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/tv-shows/feature/no-matter-what-happens-next-with-batman-this-reeves-verse-cliffhanger-needs-to-be-resolved/",
+      "watch_matches": [
+        "Batman"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-22T13:31:38.369770+00:00"
+    },
+    {
       "title": "Spider-Man: Brand New Day’s “Encore” Extended Cut Could Give Marvel a Record That’s Impossible to Beat",
       "issue": "",
       "publisher": "",
@@ -9745,6 +9916,23 @@
       "tags": [],
       "priority": "watch",
       "found_at": "2026-11-22T03:54:19.667234+00:00"
+    },
+    {
+      "title": "Tim Burton’s Batman Set-Up an Incredible Twist on a Classic DC Villain, But It Took 28 Years to Happen",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/tim-burtons-batman-set-up-an-incredible-twist-on-a-classic-dc-villain-but-it-took-28-years-to-happen/",
+      "watch_matches": [
+        "Batman",
+        "Star Wars"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-22T13:31:38.369770+00:00"
     },
     {
       "title": "Uncanny X-Men #39 Preview: A Dangerous Legacy for Wolverine",
@@ -10021,6 +10209,20 @@
       "release_date": "2026-11-18",
       "cover_url": "",
       "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#twomorrows-publishing-back-issue-171",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "release",
+      "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "Batwoman #9 (Cover A DaNi)",
+      "issue": "#9",
+      "publisher": "DC COMICS",
+      "release_date": "2026-11-18",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-8q7j97y11b.jpg",
+      "source_url": "https://comiclist.info/2026/11/16/chucks-comic-list-for-november.html#dc-comics-batwoman-9-cover-a-dani",
       "watch_matches": [],
       "creator_matches": [],
       "keyword_matches": [],
@@ -14593,76 +14795,6 @@
       "found_at": "2026-11-21T21:19:33.803762+00:00"
     },
     {
-      "title": "Conan The Barbarian #37 (Cover A Roberto De La Torre)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-a-roberto-de-la-torre",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Conan The Barbarian #37 (Cover B Fernando Dagnino)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-b-fernando-dagnino",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Conan The Barbarian #37 (Cover C Ivan Gil)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-c-ivan-gil",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Conan The Barbarian #37 (Cover D Human Kutub)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-d-human-kutub",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
-      "title": "Conan The Barbarian #37 (Cover E Carlos Magna)",
-      "issue": "#37",
-      "publisher": "TITAN COMICS",
-      "release_date": "2026-11-25",
-      "cover_url": "",
-      "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#titan-comics-conan-the-barbarian-37-cover-e-carlos-magna",
-      "watch_matches": [],
-      "creator_matches": [],
-      "keyword_matches": [],
-      "tags": [],
-      "priority": "release",
-      "found_at": "2026-11-21T21:19:33.803762+00:00"
-    },
-    {
       "title": "Concrete Stars Over Sand #5 (Of 5)(Cover A Paul Chadwick)",
       "issue": "#5",
       "publisher": "DARK HORSE COMICS",
@@ -15059,7 +15191,7 @@
       "issue": "#28",
       "publisher": "IMAGE COMICS",
       "release_date": "2026-11-25",
-      "cover_url": "",
+      "cover_url": "https://cdn.uploads.micro.blog/296796/2026/photos-a9ndnsjxd4.jpg",
       "source_url": "https://comiclist.info/2026/11/18/chucks-comic-list-for-november.html#image-comics-feral-28-cover-a-tony-fleecs-trish-forstner",
       "watch_matches": [],
       "creator_matches": [],
