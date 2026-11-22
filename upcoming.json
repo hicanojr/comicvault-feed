@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T21:19:33.952667+00:00",
+  "updated": "2026-11-22T03:54:19.695872+00:00",
   "attribution": "Weekly release lists from Chuck's Comic Lists (https://comiclist.info/), © Charles S. LePage, licensed CC BY-NC-SA 4.0.",
   "items": [
     {
@@ -4204,6 +4204,44 @@
       "tags": [],
       "priority": "HIGH",
       "found_at": "2026-11-21T21:19:33.803762+00:00"
+    },
+    {
+      "title": "5 Marvel Stories With Game-Changing Reveals Including the Most Shocking Wolverine Moment Ever",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/comics/list/5-marvel-stories-with-game-changing-reveals-including-the-most-shocking-wolverine-moment-ever/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [
+        "#1"
+      ],
+      "tags": [],
+      "priority": "HIGH",
+      "found_at": "2026-11-22T03:54:19.667234+00:00"
+    },
+    {
+      "title": "Star-Lord’s First Appearance Is Hiding in This 1976 Marvel Comic, and He’s Nothing Like the MCU Hero",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/collectibles/news/star-lords-first-appearance-is-hiding-in-this-1976-marvel-comic-and-hes-nothing-like-the-mcu-hero/",
+      "watch_matches": [],
+      "creator_matches": [],
+      "keyword_matches": [
+        "first appearance"
+      ],
+      "tags": [
+        "first appearance",
+        "new character",
+        "new_character"
+      ],
+      "priority": "HIGH",
+      "found_at": "2026-11-22T03:54:19.667234+00:00"
     },
     {
       "title": "Who Killed Tank Girl Hardcover Slipcase Set (Cover A Greg Staples Mass Market Variant)",
@@ -9691,6 +9729,38 @@
       ],
       "priority": "watch",
       "found_at": "2026-11-21T21:14:54.248538+00:00"
+    },
+    {
+      "title": "Spider-Man: Brand New Day’s “Encore” Extended Cut Could Give Marvel a Record That’s Impossible to Beat",
+      "issue": "",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://comicbook.com/movies/feature/spider-man-brand-new-days-encore-extended-cut-could-give-marvel-a-record-thats-impossible-to-beat/",
+      "watch_matches": [
+        "Spider-Man"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-22T03:54:19.667234+00:00"
+    },
+    {
+      "title": "Uncanny X-Men #39 Preview: A Dangerous Legacy for Wolverine",
+      "issue": "#39",
+      "publisher": "",
+      "release_date": "",
+      "cover_url": "",
+      "source_url": "https://bleedingcool.com/comics/uncanny-x-men-39-preview-a-dangerous-legacy-for-wolverine/",
+      "watch_matches": [
+        "Wolverine"
+      ],
+      "creator_matches": [],
+      "keyword_matches": [],
+      "tags": [],
+      "priority": "watch",
+      "found_at": "2026-11-22T03:54:19.667234+00:00"
     },
     {
       "title": "100 Bullets The US Of Anger #5 (Of 8)(Cover A Dave Johnson)",
